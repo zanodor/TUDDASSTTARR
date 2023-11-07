@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-10-10T03:37"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-11-06T12:48"}
 ---
 
 
@@ -51,7 +51,13 @@ If you got here from a link, this note is probably not made public
 Go back home*"  
 Azaz: itt nincs semmi; ha egy link vezetett ide, ez a bejegyzés még nem lett nyilvánosan létrehozva és a linkre kattintva ezen állományhoz kerülünk vissza. Lehet a böngésző bal felső sarkában a visszafelé nyíllal is hátrálni egyet ilyenkor.  
 
-Az oldal jobb áttekinthetősége és funkciónak könnyű elérése végett érdemes kipróbálni 90%-os nagyításban, mely állapothoz a CNTRL és mínusz gomb lenyomásaival juthat.  
+A bal oldalon található fájlok listájában az A-Z mappák valamelyike alapból kinyitva mutatkozik. Erre vagy lesz valamiféle gyógyír, vagy a rókaszájakra kattintva bezárhatók (és újra kinyithatók).  
+
+Felül a borítékra kattintva lehet bármelyik oldalról email-t küldeni: az adott cikk alapértelmezetten témának lesz megadva. Legalul Disqus szolgáltatással lehet mindenki számára látható kommenteket küldeni.   
+A boríték mellett a három ikon értelemszerűen a téma színváltoztatását szolgálja: világos – sötét – automatikus. Legalábbis ez lett volna a cél; jelenleg leginkább átvált egyikről a másikra, mindegy hova kattint az ember, de ez is megfelel, sőt.  
+
+Amennyiben 1400 pixelszélességnél kisebb képernyőn tekinti meg az oldalt, akkor a mobil alkalmazásnak megfelelő nézetet kapja. Ilyenkor asztali gépen vagy laptopon az oldal jobb áttekinthetősége és funkcióinak könnyű elérése végett érdemes kipróbálni 90%-os nagyításban, mely állapothoz a CNTRL és mínusz gomb lenyomásaival juthat.  
+A jövőben erre is megoldás születik majd, így ezzel majd nem kell foglalkozni.  
 
 ## A Tudástárról
 
@@ -61,16 +67,16 @@ Szerkezetét tekintve referencia könyv, A-Z-ig, azaz ábécé rendbe szervezett
 A megfogalmazás helyenként bő, másutt tőmondatokba tömörített. Igyekszem egyértelműen fogalmazni, de néha talán túl is magyarázom és talán túl sok belső linkkel tarkítom (zavarom) a sorokat. A gyengébb színvonalú részek vagy régiek és még nem kerültek későbbi, rutinosabb önmagam elé lektorálásra ("öncenzúra elé"), vagy pedig betudhatók egy hirtelen, intuitív "automatikus írás" jellegnek. Azon részek hetekkel, hónapokkal, évekkel későbbi racionalizáló jellegű átfésülései igen nehéznek is bizonyulnának. Mivel az első (teszt) publikáció idején (2023. okt. eleje) már közel 14000 címszónál tartottam, embert próbáló egyesével keresni, hol lehetne valamit éppen kijavítani.  
 
 
-Lesznek olyan részek is, amelyek ismét a régi felfogásom tükrözik – ahol pl. a Nagy Kutya lucida-jának jelentőségét még a precessziós Nagy Éves körben tárgyalom, másutt a kis éves jelentőségének tárgyalására szorítkozom. A kutatás nehézsége, hogy sok mindent nem tudunk és legfeljebb hangosan gondolkodhatunk. Menet közben rostálja ki az ember az ocsút és ezt a kész tényekre, megoldásokra, a "tutira" vágyó érdeklődő nem kellene lássa.  
+Lesznek olyan részek is, amelyek ismét a régi felfogásom tükrözik – ahol pl. a Nagy Kutya lucida-jának jelentőségét még a precessziós Nagy Éves körben tárgyalom, másutt a kis éves jelentőségének magyarázatára szorítkozom. A kutatás nehézsége, hogy sok mindent nem tudunk és legfeljebb hangosan gondolkodhatunk. Menet közben rostálja ki az ember az ocsút és ezt a kész tényekre, megoldásokra, a "tutira" vágyó érdeklődő nem kellene lássa.  
 Vannak adatok kimondottan "fringe" címkét kapó (ők leginkább áltudományosnak számítanak, de a kérdés mindig marad: "ki képviseli a valódi tudományt?") szerzőktől, akik – ha azon a bizonyos "dobozon" kívül gondolkodásukkal jó ötletet adhatnak – véleménye lehet, hogy számít, lehet, hogy nem. Az ilyen emberek adataival való munka kockázata, hogy besorolják az embert közéjük, és utána a címkét soha sem tudja levakarni magáról az ember. Én alapvetően az "open mind" ("tárd ki az elméd") elvét követem, ami azzal is jár, hogy sok ellentmondó információval találkozom és rendet kell tennem köztük. Ez nekem nem okoz gondot (mert értem a lényeget). Aki az ilyen esetektől fél és félelmei ellen úgy menekül, hogy másokról (jelen sorok írójáról) ítélkezik, azokkal nekem nincs dolgom.  
 Alapvetően nálam az a szabály, hogy minden információ, amivel találkozom, kerüljön feldolgozásra. Legfeljebb mellé írom a kritikát, hogy helytelen, következetlen, stb.  
 Ahol ezt elmulasztom megtenni (mert a rengeteg anyag rengeteg törődést igényel és időből van a legkevesebb), az nem azt jelenti, hogy én is azt gondolom. Egyszerűen lehetetlennek látom jelen pillanatban, hogy idő szűkében minden adatot publikálásra alkalmassá fésüljek át.  
 Milyen egyszerű lenne az élet, ha a kútfők már akadémiai szinten – a világ sok ezer jól fizetett akadémistája által – szépen szűrve lennének. Nem is lenne itt dolgom. De a világ – akadémistával és azok póráztartóival együtt – nem így működik.  
 
-Ahogy mondtam, szerettem volna tökéletesre formálni mindent, de számolnom kell azzal, hogy ilyen-olyan okoknál fogva sosem jut el másokhoz, amit eddig felhalmoztam, ezért döntöttem mégis a folyamatos nyilvánosságra hozatal mellett.  
+Szerettem volna tökéletesre formálni mindent, de számolnom kell azzal, hogy ilyen-olyan okoknál fogva sosem jut el másokhoz, amit eddig felhalmoztam, ezért döntöttem mégis a folyamatos nyilvánosságra hozatal mellett.  
 
 
-A fentebb említett Péterfai János István (az írásokban gyakran röviden: PJI) sorai gyakran nyitják az egyes cikkeket, mint mérvadó, viszont külön helyen egyes hibáira vagy következetlenségeire is felhívom a figyelmet.  
+A fentebb említett Péterfai János István (az írásokban gyakran röviden: PJI) sorai gyakran nyitják az egyes cikkeket, mint mérvadó, viszont külön helyen egyes – fogalmazzunk úgy – hibáira vagy következetlenségeire is felhívom a figyelmet.  
 Remélhetőleg egy nálam fiatalabb – vagy csak: rátermettebb –, követőnk majd az én hibáimat is javítja. Az alapokat János bátyám és én letesszük nekik.  
 
 Az írások nagy része tehát másoktól származó idézet (igyekeztem a megfelelő kiemelésekkel adni), alapvetően elsődlegesen saját részre, adatgyűjtés céljából. A saját anyag kb. az összes szöveg 15-25 százalékát teheti ki, esetleg többet, de az idő és a kutatás előrehaladtával az arányok tolódhatnak: több adat állhat rendelkezésre a már felvázolt tézisek igazolására, pontosítására.  
@@ -79,6 +85,11 @@ Az egyes helyeken található ún. Zotero linkek (ahol oldalszámokra lehet katt
 Úgy terveztem, hogy ez is publikusan működhet, de sajnos menet közben technikai akadályok merültek fel. Amíg nem találok ingyenes tárhelyet 50-100GB méretben, a könyvek lapjaira kattintva nem nyílik meg az olvasó böngészőjében semmi.  
 
 A lexikális adatok (lásd őket `ilyen` vagy főképpen tulajdon- és istennevek esetében **Ilyen** szedéssel) helyességére különösen ügyeltem, de becsúszhat itt-ott elírás vagy pedig a forrásom téved (vagy annak forrása). Olyan is előfordul, hogy minden igyekezetem ellenére nem sikerült minden lexikális adatot külön kiemeléssel jelölni. Ha látok valamit, menet közben javítom és ennek jogát fenntartom.  
+
+Menet közben úgy döntöttem, hogy a fontosabbnak ítélt angol nyelvű részeket (az esetek mintegy 90-95%-a lehet) lefordítom. Ehhez a kitűnő DeepL fordítót használom. A kész fordításokban csak a látványos vagy ordító hibát javítom, de elképzelhető, hogy helyenként kissé magyartalan marad a szöveg. (Az említett fordító így is messze felülmúlja a nagynevű világcégek magyar nyelvre fordító képességét – történik mindez a 21. században...)  
+Ez a lábjegyzetekre is kihatással lesz: az egyes lábjegyzetek mellett álló visszafelé nyilak közül az első az angol szövegre, a második a magyarra visz.  
+
+Az egyes szócikkek nagybetűvel való felvételének oka, hogy az alapszavakat vagy ún. etimonokat (és teoretikus etimonokat) meg kívántam különböztetni a többitől. Az olyan szavak, mint [[B/BOG\|BOG]], [[S/SZEK\|SZEK]], és társai Napot, napminôséget (hímségi princípiumot) jelentenek és változataik sok más szó részét képezik. Mivel nem kimondott – legalábbis nem az indoeurópai értelemben vett – szógyökök, hanem nemcsak a szavak elején szereplő szóelemek (szótagnyelv-elemek), ezért célszerű volt megkülönböztetni őket.  
 
 ### A tartalom
 
@@ -188,7 +199,7 @@ Amikor tehát Ipolyi Arnold Magyar mythologia című könyvében (lásd adalékj
 #### Még a magyar nyelvről
 
 Úgy tűnik, tényleg nem értették/értjük a magyar nyelvet, és ezért a kelleténél kevesebb mértékű védelem alá voltak képesek helyezni nyelvészkedő eleink és voltak kényszerültek oly sok szót a szláv és török, valamint finnségi nyelvekből magyarázni.  
-Ipolyi Arnold Magyar mythologia c. könyvéből is az derül ki, hogy leginkább a hozzá nem értés miatt alakult ki ez a csúfos helyzet. Persze a környező országok ellenségeskedését és magyar-hun gyűlöletét sem szabad lebecsülni (történelmi-történeti okai vannak szintén annak, hogy a szláv nyelvből akarhatunk olyan szavakat megfejteni, mint [[N/Nyavalya\|nyavalya]], [[N/Néma\|néma]], vagy fontosabban [[K/Kovács\|kovács]] és [[K/Kalács\|kalács]], hiszen ezek a népek "állítólag" előttünk itt éltek).  
+Ipolyi Arnold Magyar mythologia c. könyvéből is az derül ki, hogy leginkább a hozzá nem értés miatt alakult ki ez a csúfos helyzet. Persze a környező országok ellenségeskedését és magyar-hun gyűlöletét sem szabad lebecsülni (történelmi-történeti okai vannak szintén annak, hogy a szláv nyelvből akarhatunk olyan szavakat megfejteni, mint [[N/Nyavalya\|nyavalya]], [[N/Néma\|néma]], vagy fontosabban [[K/Kereszt\|kereszt]], [[K/Kovács\|kovács]] és [[K/Kalács\|kalács]], hiszen ezek a népek "állítólag" előttünk itt éltek).  
 Amennyiben lehet elnézően tekinteni hozzá nem értő elődeinkre és megbocsájtóan sorainkból kivált szomszédainkra/ellenségeinkre, a magyar nyelv körüli értetlenkedéseket és vitákat egyszerűen el lehetne oszlatni. Csak hát a politika mindig közbeszól.  
 
 Annak felismerését, hogy a magyar nyelv ősi (minden más nyelvnek anyja), az idegen szavak magyarból való elemzését vajon honnan, Berzsenyi Dánieltől lehet időben elképzelni? Ipolyi Arnold Magyar mythologia című könyvének 390. oldalán lábjegyzetben Lugossy és Szombathy neveket is említ: utóbbi a perui Virakocha istennevet a magyarból igyekezte megfejteni.  
@@ -377,7 +388,7 @@ Lásd még [[E/Etymon\|etimon]].
 
 #### Negatív értelmet nyert vagy aljas szavak
 
-Az idő előrehaladtával ([[K/Kali Yuga\|Kali Yuga]]) bizonyos szavak, szóösszefüggések értelme megváltozott; kialakult kettős jelentésük vagy csak kihangsúlyozottá váltak:  
+Az idő előrehaladtával ([[K/Kali Yuga\|Kali Yuga]]) bizonyos szavak, szókapcsolatok értelme megváltozott; kialakult kettős jelentésük vagy csak kihangsúlyozottá váltak:  
 • [[R/Ronda\|Rondá]]ról esett szó [[R/Round\|round]] szónál. Ugyan rom szavunkból is eredhet (romda) de maradjon itt.  
   
 • [[B/Baj\|Baj]] szónál PJI leírja, miként változott negatívra jekentése. [[B/Bal\|Bal]] eredetileg hatalmast, majd bal-jóst, rossz értelmet vett fel.  
@@ -385,6 +396,8 @@ Az idő előrehaladtával ([[K/Kali Yuga\|Kali Yuga]]) bizonyos szavak, szóöss
 • Tupa szavunk eredetileg szintén pozitív: Tu-Pa magyarul Nap-Apa.  
 
 Azt le kell azonban szögezni, hogy a szent magyar nyelvben nincsen "csúnya" szó. Minden szavunk szakrális, szent szó. Az adott helyeken erre ki szoktam térni.  
+
+Az ellentétes értelmű szavak közül az egyik legérdekesebb, amit továbbgondolásra ajánlok, a [[M/Más\|más]] szavunk: valami mása lehet az azonosa és különbözője is. Ezen szó is több nyelvben fellelhető, tehát a magyar ősnyelv alaprétegéhez tartozik.  
 
 #### A pogányság, ill. a nap- és tűztisztelet tiltása, démonizálása tetten érhető a nyelvben
 Avagy az élet dualisztikus volta kódolva van a nyelvben
@@ -416,6 +429,7 @@ A cél mindig az objektív igazság, nem az, hogy a saját igazamat hogyan tudom
 Ehhez megfelelő mennyiségű adat, tudásanyag és persze elfogulatlanság és alázat szükséges. A Tilak Orionjának függelékében található szanszkrit Ârgayana > [[O/Orion\|Orion]] levezetés például leginkább nemtörődömség eredménye, míg a Rawlinson féle Aryan = Orion azonosítás is hasonlóan félresikerült, még ha logikusnak is tűnik, indo-európai kutatói szempontból.  
 Másutt is volt arról szó, hogy ha két szóelem azonos, az még nem jelenti azt, hogy közük is van egymáshoz. Ez a magyarságkutatást szintén nehezíti. Csak egy példa: [[K/Koca\|koca]] szavunk (maradjunk annyiban, hogy) kétértelmű, de az azonos török `koca` = férj szó (ahogy az albán `koc` = hímtag mutat rá) ne ezen magyar szóval rokon, hanem leginkább [[K/Kutya\|kutya]] szavunk rontása. (A férj az úr, nagy tekintéjű, ezért a Nap magas, Ku-Ta állása nyomán ered a név.)  
 A Fáy Elek A magyarok őshona című könyvének 55. oldalán említett egyiptomi Month (Ammon istennel azonosítja FE), csak azért, mert az angol [[M/Month\|month]] szóval egy az egyben azonos, nem jelenti azt, hogy a Hold neve ebből az egyiptomi istennévből ered. Ahogy az sem állja meg a helyét, hogy a germán [[H/Heart\|heart]] mondjuk [[H/Harc\|harc]] szavunkkal azonosulva eredetére talál. Vagy ott a szláv `jelen` = szarvas: nyilván nem mai magyar [[J/Jelen\|jelen]] szavunkkal kell megfeleltetni és mindenféle időrendre csavarintani.  
+A témát lásd még [[N/Népetimológia\|népetimológia]].  
 
 
 
@@ -440,7 +454,7 @@ Ha a szavakat is egy életfán akarjuk elképzelni, akkor be kell látni, hogy a
 A másik nehézség, hogy a legtöbb esetben nem tudjuk, mit keresünk, illetve a már eddig ismert kontextusok és ismeretek alapján tudunk szűkíteni. Például az etimomokat és [[M/Mithra\|Mithra]] pontos funkcióját nem ismerő kutató egyszerűen [[M/Magyar\|Magyar]]t vagy hasonló nevet fog találni (nem is teljesen ok nélkül), és azt tudja mondani rá, hogy akkor Napisten. Több adat alapján viszont egyértelműen meghatározható a jelentése, funkciója. Ha valaki nem ismeri például a [[C/Centre\|centre]] szó eredetét, mondhatná rá magyarként, hogy "Szent Tér," vagy hasonlót. A lényeg az, hogy az idegen szavak alapján sikerüljön valamiféleképpen egy ősmagyar mitológiát vagy felfogást retro-mérnöki módon megalkotni; csak nem mindegy, hogy az illető mennyire van tisztában az alapokkal, mennyire talajgyökeres az ősi szakralitásban; ellenben sok valótlanságot állíthat és többet árthat, mint használ.   
 Viszont be kell ismerni, hogy egyes szavak pontos magyarból való eredeztetése gyakorlatilag azért lehetetlen, mert sok mitológiai kapcsolata lehet (vagy éppen semmi). A sok ugyanúgy probléma mint a kevés. Annak esélye, hogy minden szót el lehessen helyezni [[M/Magyar mondák idegen népek szavaiban felismerhetők\|egy-egy ősmagyar mítoszból kiemelve]], szinte egyenlő a nullával. Ezért kell az olyan értelmezéseket (akár fenntartással) elfogadni, mint Magyar Adorjáné. És persze tovább kutatni és kutatni, megpróbálni összeszedni azokat a pl. [[L/Lure\|lure]] címnél álló mondához hasonló mítoszi anyagot, amelyekben tetten érhetjük a magyar kiinduló ideákat.  
 Persze nem tudjuk, hogy egyes szavak mikor lehetnek mitológiai töltetűek, jelentésűek és mikor nem. Mindig résen kell lenni és gyanakodni kell. Erről legutóbb [[G/Göd\|Göd]] címnél is volt szó az oromo `godda` = had szó kapcsán és az ott is említett [[G/Guide\|guide]] = vezető szó kapcsán is újfent kimondtuk, hogy az azonos alakú más-más utódnyelvekben fellelhető szavak alapján lassanként lehetséges rekonstruálni az ősvallást, de legalábbis fontos részeit. Még egy példa: az albán `thunder` = pata jelentésével azt látszik elárulni, hogy a tündérek patás állatok formáját is felölthetik illetve, hogy a patákkal ellátott [[O/Ördög\|ördög]] is tulajdonképpen egyrészt a szarv-as fülű tündérek démonizálása.  
-Még a light-liget páros mellé hoznám fel az olyan "fals barátokat," mint [[S/Szíria\|Szíriá]]nak Szíriusz nevéből való eredeztetését Gyárfás Ágnes részéről, vagy Grandpierre Attila részéről azt a hibát, hogy [[S/Sakaea\|Sakaea]] szaka/szkíta ünnep lévén azon nevekből (jelen esetben: [[S/Szaka\|szaka]]) is ered. Nagyon fontos, hogy amikor két hasonló nevet találunk, ne az egyiket a másikból akarjuk levezetni, hanem értelmezni (a szakrális hátterét) kell a neveket. Így amikor azt mondaná valaki, hogy Atilla testvére [[B/Buda\|Buda]] [[B/Buddha\|Buddhá]]ról kapta a nevét, ez így nem igaz. Buda nem Buddháról nyeri nevezetét, mert ezek nem kimondott nevek, hanem címek. Érteni kell a Bu-Da (vagy Bud-A; lásd még [[V/Vata\|Vata]], [[V/Vajda\|vajda]]) nevet. Hasonlóan, amikor Paposi-Jobb Andor előadásában azt mondja, hogy a [[C/Cigány\|cigány]] a [[S/Szegény\|szegény]] módosulata, nem említi meg a [[S/Szikan\|Szikan]] nevet. Hasonló eset, ha az `aetheling` és **Aethelred**, stb. brit neveknek olyan Atillához kapcsolt történelmi jelentőséget tulajdonítunk, amit máshogy nem(?) tudunk bizonyítani. Ugyanis a német `edel` = tündér szó alapján itt is a nemes (Tejútról való leszármazással kapcsolatos) jelentéssel kellhet inkább számolni.  
+Még a light-liget páros mellé hoznám fel az olyan "hamis barátokat," mint [[S/Szíria\|Szíriá]]nak Szíriusz nevéből való eredeztetése Gyárfás Ágnes részéről, vagy Grandpierre Atilla részéről azt a hibát, hogy [[S/Sakaea\|Sakaea]] szaka/szkíta ünnep lévén azon nevekből/névből (jelen esetben: [[S/Szaka\|szaka]]) is ered. Nagyon fontos, hogy amikor két hasonló nevet találunk, ne akarjuk közvetlenül az egyiket a másikból levezetni, hanem értelmezni (érlelni) kell a neveket (a szakrális hátterét) . Így amikor azt mondaná valaki, hogy Atilla testvére [[B/Buda\|Buda]] [[B/Buddha\|Buddhá]]ról kapta a nevét, ez így nem igaz. Buda nem Buddháról nyeri nevezetét, mert ezek nem kimondott nevek, hanem címek. Érteni kell a Bu-Da (vagy Bud-A; lásd még [[V/Vata\|Vata]], [[V/Vajda\|vajda]]) nevet. Hasonlóan, amikor Paposi-Jobb Andor előadásában azt mondja, hogy a [[C/Cigány\|cigány]] a [[S/Szegény\|szegény]] módosulata, nem említi meg a [[S/Szikan\|Szikan]] nevet. Hasonló eset, ha az `aetheling` és **Aethelred**, stb. brit neveknek olyan Atillához kapcsolt történelmi jelentőséget tulajdonítunk, amit máshogy nem(?) tudunk bizonyítani. Ugyanis a német `edel` = tündér szó alapján itt is a nemes (Tejútról való leszármazással kapcsolatos) jelentéssel kellhet inkább számolni.  
 De ha a [[S/Spain\|Spain]] – [[I/Ispán\|Ispán]] összefüggést ugyanilyen történelmi (szintén Atilla hadjáratához köthető) alapon mutatjuk ki, az sem feltétlenül helyes, mert lehetséges, hogy az Is-Pan alapképlet veendő számításba.  
 Hasonló eset az is, amikor a törökök [[T/Turán\|turán]]it látnak (például tőlem a [Quorán](https://www.quora.com/profile/Ott%C3%B3-Flott)), s a Tur előrész megláttán azonnal önnön magukkal azonosítanak.  
 Sok olyan eset van, például Éliás/[[I/Illés\|Illés]] > [[H/Helios\|Helios]], amikor a zsidó nevekből (egyáltalán: mi (a) zsidó?) akarják a görögöt levezetni, vagy párosítani, holott vegyük észre, hogy a görög őslakos [[P/Pelaszg\|pelaszg]]ok voltak azok, akik [[P/Palesztina\|Palesztina]] nevét is adták, tehát mindkét esetben a magyar-palóc gyökerekig kell lehatolni. ([[G/Görög\|Görög]] címnél említettünk egy görög és héber nyelvet hasonlító könyvet is, ahol több példa is előjöhet majd.)  
