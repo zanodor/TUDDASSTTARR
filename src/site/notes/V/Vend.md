@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vend/","title":"Vend","tags":["dg_uploaded"],"created":"2023-10-20T10:16","updated":"2023-10-25T02:22"}
+{"dg-publish":true,"permalink":"/V/Vend/","title":"Vend","tags":["dg_uploaded"],"created":"2023-10-20T10:16","updated":"2023-11-08T04:22"}
 ---
 
 
