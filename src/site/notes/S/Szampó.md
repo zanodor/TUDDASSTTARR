@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szampó/","title":"Szampó","tags":["dg_uploaded"],"created":"2023-10-10T03:42","updated":"2023-10-25T02:12"}
+{"dg-publish":true,"permalink":"/S/Szampó/","title":"Szampó","tags":["dg_uploaded"],"created":"2023-10-10T03:42","updated":"2023-11-08T04:16"}
 ---
 
 
