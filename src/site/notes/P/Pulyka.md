@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pulyka/","title":"Pulyka","tags":["dg_uploaded"],"created":"2023-10-25T02:46","updated":"2023-11-02T04:38"}
+{"dg-publish":true,"permalink":"/P/Pulyka/","title":"Pulyka","tags":["dg_uploaded"],"created":"2023-10-25T02:46","updated":"2023-11-08T04:13"}
 ---
 
 
