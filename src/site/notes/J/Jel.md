@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jel/","title":"Jel","tags":["dg_uploaded"],"created":"2023-10-26T03:36","updated":"2023-11-02T04:32"}
+{"dg-publish":true,"permalink":"/J/Jel/","title":"Jel","tags":["dg_uploaded"],"created":"2023-10-26T03:36","updated":"2023-11-08T03:46"}
 ---
 
 
