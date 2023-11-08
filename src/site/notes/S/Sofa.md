@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sofa/","title":"Sofa","tags":["dg_uploaded"],"created":"2023-11-08T05:36","updated":"2023-11-08T05:36"}
+{"dg-publish":true,"permalink":"/S/Sofa/","title":"Sofa","tags":["dg_uploaded"],"created":"2023-11-08T05:36","updated":"2023-11-08T04:15"}
 ---
 
 
