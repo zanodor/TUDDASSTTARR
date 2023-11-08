@@ -7,6 +7,6 @@
 
 JM adata szerint az óegyiptomi mitológiában: a föld istene, a holtak oltalmazója, alvilág, az a hely, ahol a Nap alábukik és felkel. Akeru az Aker többesszáma: a föld kígyószellemei.  
 
-Éppenhogy Ég-Úr lenne jó rokonítás vele.  
+Éppen hogy Ég-Úr lenne jó rokonítás vele.  
 
 Hasonló hozzá [[A/Akar\|akar]] szavunk.  
