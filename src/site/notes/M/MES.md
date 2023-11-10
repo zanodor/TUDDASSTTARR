@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["dg_uploaded"],"created":"2023-10-21T04:46","updated":"2023-10-25T01:48"}
+{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2023-11-10T11:07"}
 ---
 
 
@@ -24,6 +24,8 @@ Lásd még fiú jelentések kapcsán [[M/MAS\|MAS]] és [[M/Más\|más]], valami
 
 Ezek alapján MES jelentése [[M/MISZ\|MISZ]]-hez is hasonló(an ifjú, fiú jelentésű), de Gavin White Babylonian Star Lore című könyvének adata szerint MES egyszerűen többes számot jelöl:  
 > Late astrology texts sometimes refer to the Crab simply as 'the Waters' (A-meš).  
+> —  
+> A késői asztrológiai szövegek néha egyszerűen "Vizek" (A-meš) néven említik a Rákot.  
 - Ilyen értelemben [[M/Mass\|mass]] vagy [[M/Mash\|mash]] szóval látszik azonosulni értelmében. [[M/Méz\|Méz]] szavunk is lehet tej/víz értelmű, mint [[M/MISZ\|MISZ]]-nél láttuk.  
 A víz lehet a Tejútanya magzatvize (ég tengere). De legegyszerűbb a [[M/Mix\|mix]] címnél írottak alapján gondolkodni. Ott is előjött a víz.  
 Csatolva lásd MES piktogramját.  
