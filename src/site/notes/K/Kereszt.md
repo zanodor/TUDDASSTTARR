@@ -201,7 +201,7 @@ JMJ más, keresztes témáját [[G/Galactic centre\|Galactic centre]] címtől t
 
 #### Tibold Makk Szabina tollából:  
 
-> Tudós és író John Major Jenkins közlése: "13.0.0.0.0. (December 21. 2012) decemberi napfogyatkozás \[volt ilyen?\] a Tejút gyűrűjében fog megjelenni. Úgy is mondhatjuk, hogy egy felsorakozó állás a galaktikus tér és solstice meridián között. Ez egy esemény, ami lassan összejött egy több ezer éves periódusban, az equinoxok \[napéjegyenlőségek\] precessziójának hatására. A hely, ahol a decemberi megfogyatkozott nap keresztezi a Tejutat, a Tejútnak pontosan azon a részén történik, amit 'sötét hasadásnak' – xibalab be'-nek, vagy az 'alvilágba vezető útnak' neveznek."  
+> Tudós és író John Major Jenkins közlése: "13.0.0.0.0. (December 21. 2012) decemberi napfogyatkozás \[volt ilyen?\] a Tejút gyűrűjében fog megjelenni. Úgy is mondhatjuk, hogy egy felsorakozó állás a galaktikus tér és solstice meridián között. Ez egy esemény, ami lassan összejött egy több ezer éves periódusban, az equinoxok \[napéjegyenlőségek\] precessziójának hatására. A hely, ahol a decemberi megfogyatkozott nap keresztezi a Tejutat, a Tejútnak pontosan azon a részén történik, amit 'sötét hasadéknak' – xibalab be'-nek, vagy az 'alvilágba vezető útnak' neveznek."  
 > A 2012-es téli napfogyatkozásnál, a déli Nap tökéletesen együtt áll majd a Nap és a galaktikus tér elliptikus útjának metszőpontjával, ami ugyanakkor közeli konjunkcióban lesz a galaxis központjával is.  
 > Jenkins továbbá kifejti, hogy ez az **óriási kozmikus kereszt** az időben szimbolizálja a Maya Életfát, amely a Maya Kozmológia magva.  
 
@@ -307,7 +307,7 @@ Következzen akkor Platón VilágSzelleme/Lelke Acharia S tolmácsolásában:
 Ha nem lett volna eddig egyértelmű, Jézus egylényegű a kereszttel: a zsidók által kiölni kívánt lelkiséget hirdeti. Ezért is kerül fel rá. A másik oka a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] címnél szerepelt.  
 
 A Kereszténység leleplezésében ez is áll még másutt: A léleknek négy fontos iránya van, melyek férfias és nőies jellegűek.  
-Az [alábbi](https://youtu.be/jEyZFbkvJjw) [[M/Maya naptár\|maya naptár]]ról szóló előadásában Ian Lungold a már másutt is taglalt célkeresztet az ember tudatosságával azonosítja: egész életünkben folyton döntünk arról, hogy egy bizonyos időben hol leszünk.  
+Az [alábbi](https://youtu.be/jEyZFbkvJjw) [[M/Maja naptár\|maja naptár]]ról szóló előadásában Ian Lungold a már másutt is taglalt célkeresztet az ember tudatosságával azonosítja: egész életünkben folyton döntünk arról, hogy egy bizonyos időben hol leszünk.  
 ![assets/Kereszt_image29.png](/img/user/K/assets/Kereszt_image29.png)  
 
 [Ezen](https://youtu.be/GyY1R2QvTQA) ÁKTV műsorban KT 5:10-től beszéli el az alábbiakat:  
