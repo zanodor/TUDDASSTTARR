@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","tags":["dg_uploaded"],"created":"2023-10-13T05:41","updated":"2023-11-08T04:22"}
+{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","tags":["dg_uploaded"],"created":"2023-10-13T05:41","updated":"2023-11-25T01:10"}
 ---
 
 
@@ -25,13 +25,13 @@ CzF szótár vadol szónál írja:
 Nimród nagy vadász volt az Úr előtt, írja a Biblia. Bognár Ferenc A magyarok istene című cikkében bemutatja, hogy különböző nyelveken hogyan nézett ki ez az összefüggés, hogy Nagy Vadász majd egy másik bibiliai helyet is bemutat:  
 ![assets/Vadász_image1.jpeg](/img/user/V/assets/Vad%C3%A1sz_image1.jpeg)  
 Gen 10.9 (Nimród) nagy vadász (volt az Úr előtt):  
-Namost, a (kétes) latin eredetre visszavitt francia `chasseur`, spanyol `cazador` és olasz `cacciatore` = vadász szavak (idetartozik az angol [[C/Chase\|chase]] = űz ige is) olyan hazar/kazár alakú törzsre visszavihetőek[^1], mint a [[H/Hazard\|hazard]] címnél előjövő perzsa `házár` = garázdálkodás és a CzF ugyancsak házsárt címszavánál taglalt, franczia szótárakban ismeretlen viaskodási jelentések is előjönnek.  
+Na most, a (kétes) latin eredetre visszavitt francia `chasseur`, spanyol `cazador` és olasz `cacciatore` = vadász szavak (idetartozik az angol [[C/Chase\|chase]] = űz ige is) olyan hazar/kazár alakú törzsre visszavihetőek[^1], mint a [[H/Hazard\|hazard]] címnél előjövő perzsa `házár` = garázdálkodás és a CzF ugyancsak házsárt címszavánál taglalt, franczia szótárakban ismeretlen viaskodási jelentések is előjönnek.  
 
 Hogy a perzsa `házár` arab eredetű-e, nem tudni, mindenesetre a török `hasar` = kár, veszteség; gonoszkodás; előítélet szót arab `ḵasār` eredetre viszik vissza és könnyen a [[K/Kazár\|kazár]] zsidókra utalhat, de lehet akár ez is Orionra utaló név.  
 
 De az [alábbi](https://en.wiktionary.org/wiki/cacciatore#Italian) oldalon még az angol `chaser` = üldöző, hajtó értelem is említésre kerül másodlagosan (maga a [[C/Chase\|chase]] is egy \*hazar alakú főnév utólagos képzése kell legyen). Márpedig a vadász űzi a Csudaszarvast és hajtja (Szíriusszal egyetemben) a csillagképeket (a mítosz szerint a Vadász Szíriuszra is nejeként tekint, de a [[P/Pleiadok\|Pleiadok]] felé is szegezheti íját).  
 
-Namost, ez a hazar mi is lehet? Itt jut eszünkbe ...
+Na most, ez a hazar mi is lehet? Itt jut eszünkbe ...
 
 #### Bognár Ferenc A magyarok istene...
 
@@ -49,7 +49,7 @@ A Pető Imre féle vonal is érdekes, de az is, hogy az [[A/Asera\|asera]] és [
 Ami még a Hágár név változatait illeti, Hacer török női név. Hacser Józsa nevét mondhatnánk még.  
 A többi nyelven is fussunk végig. A szláv `lovec`, `лове́ц`, stb. alakok egyértelműen `lövész` szavunkat árulják el. A germán szavaknál is a nyíllövő az íjász, aki ugye a vadász is. De ha már lövész, nem-e a [[L/Love\|love]] szó is [[A/Ámor\|Ámor]] és [[C/Cupid\|Cupid]] címnél írottak alapján lövés szavunk törzse? Azaz a szanszkrit [[L/Lubdhaka\|Lubdhaka]] dakák lövője lenne? A szláv szavak gyöke erre enged következtetni. A [[L/Lubdhaka\|Lubdhaka]] névvel [[S/Szíriusz\|Szíriusz]] címnél találkoztunk már; [[L/Love\|love]] címnél is említettük közben, hogy a lövés és lövész törzse lehet.  
 A lengyel `myśliwy` a [[M/MISZ\|MISZ]] előtag miatt érdekes; emlékeztet a [[L/Luna\|Luna]] címnél elővett lengyel `miesiąc` = holdsarló, hold szóra, mely felveti, hogy a közös fogalom bennük az ív/ij(asság) (hasonlóan az arab `kamr` = Hold, de a héber `hamor` = íjász).  
-A görög `κυνηγός` = vadász a `κύων` = kutya előtagot viszi, de az utótagot nem magyarázza meg a Wiktionary. Beekes etymologia szótárában elő sem jön a szó, de egy hasonlót megad kutyavezető néven. Én éppen erre az etymologiára gondoltam: csak az égre kell nézni.  
+A görög `κυνηγός` = vadász a `κύων` = kutya előtagot viszi, de az utótagot nem magyarázza meg a Wiktionary. Beekes etymologia szótárában elő sem jön a szó, de egy hasonlót megad kutyavezető néven. Én éppen erre az etimológiára gondoltam: csak az égre kell nézni.  
 A török `avci` és azeri `ovçu` = vadász talán [[A/Ács\|ács]] vagy [[J/Jász\|jász]] illetve (a PJI szerint akár a magyar [[H/Heta\|heta]] nevünkhöz köthető) kínai [[J/Jüecsi\|jüecsi]] átvétele (a [[H/Hét\|hét]] pedig észak ugye) (a shor nyelvű `añçı` hasonló még (sőt, ismét N = V?)).  
 [[J/Jüecsi\|Jüecsi]] címnél arról szóltunk legutóbb, hogy a [[J/Jász\|jász]] nevünk kell legyen, és valóban, a jász = íjász = vadász.  
 Mint kiderül, [[H/Hágár\|Hágár]] fia, [[I/Izmael\|Izmael]] is vadász, de atyja [[A/Ábrahám\|Ábrahám]] is Orion alak.  
