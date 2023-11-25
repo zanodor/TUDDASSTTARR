@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-30T08:39","updated":"2023-11-08T03:45"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-30T08:39","updated":"2023-11-25T11:11"}
 ---
 
 
@@ -77,8 +77,7 @@ Az alábbi három passzus [[N/Nyilas csillagkép\|Nyilas csillagkép]] címnél 
 
 > Az íjnak és a nyílnak az archaikus korban betöltött szerepe, elterjedtsége alakította ki gazdag és összetett szimbolikáját. A nyílvessző a férfi nemzőerejének phallikus jelképe. Ismertek olyan teremtésmítoszok, melyekben a teremtés kezdetén nyilak teremtik meg a világosságot. Ha a nyíl férfias jelkép, akkor az íj nőies és az anyaméhet szimbolizálja, így **a nyíllövés a születést jelenti**.  
 - Ez így nem igaz. A nyíllövés = nemzés akkor zajlik, amikor a férfi ejakulál (az [[E/Ejaculate\|ejaculate]] ige is az íjaz, ajz alapértelemre megy vissza) a nő méhébe. A szülés ugye az emberi nőknél ugyanazon a helyen zajlik (ritkábban, illetve ma már gyakrabban másutt a hasfalon át), viszont az égen máshogy zajlik a dolog. A nemzés a nyári égen, a szülés a télin történik. PZ és mások sem számolnak azzal, hogy a Nyilas csillagkép fő értelme Nyílás, míg a vele szemben lévő Nyilas/Nyilazó/Íj csillagkép a "valódi Nyilas." Ott történik a nemzés, míg az általunk ismert Nyilasban a szülés. Így Nyilasra értve PZ jól írja amit ír, végkövetkeztetésként (a szülés ott történik), de nem fejtette ki bővebben.  
-
-- Nyíllövés előjön Falvay Károly Nagyboldogasszony című könyvében is ([[T/Temetkezés\|temetkezés]] címnél is szerepelt):  
+- Nyíllövés előjön Falvay Károly Nagyboldogasszony című könyvében is ([[T/Temetkezés\|temetkezés]] címnél is szerepelt):  
 > A föld fogalom, mint a következőkkel is bizonyítjuk, a kultúránkban mindenkor női szimbólumként van jelen. A hazai régészeti kutatásokban közismert, hogy számos nyitott sírgödörben fekvő halott mellé a temetés alkalmával nyíllal, később puskával lőttek. Jelen munkánk vizsgálódásai során úgy találjuk, ennek célja az újjászületési mágia volt, ami a halott új életre kelésének, újjászületésének megerősítését célozta. Ezek a kultuszok széleskörűen ismertek voltak Európában is, s jelképeik (attribútumaik) megjelennek a kereszténység eszmekörében egészen a reneszánszig; a nép körében szinte napjainkig.  
 
 - Bakos Attila A Duna Evangéliuma című könyvének 449. oldalán taglalja, hogy a magyarság csillagképe a Nyilas, de a tőle szokásossá váló, [[O/Orion#Orion mint Nyilas/Vadász – Orion/Aryan és Pabilsag problematika\|Orion mint Nyilas/Vadász – Orion/Aryan és Pabilsag problematika]] cím/alcímnél is taglalt módon az Atyaság-Fiúságra hegyezi ki a dolgot, az Anya/Szűzanya-Fiú összefüggés helyett.  
@@ -92,7 +91,7 @@ PZ folytatja:
 
 Kandra Kabos Magyar Mythologia című könyvében is (csak annyi) szerepel, hogy a vogulok teremtésmondája szerint a szintén vadász [[N/Numi Tórem\|Numi Tórem]]tól tanulja az ember az íj és a nyíl készítése módját.  
 
-Fáy Elek könyvének 236. oldalán (lásd csatolt képi anyagot [[O/Ouroboros\|ouroboros]]) hasonlóan, szépen szól a kör nemző hajlásáról, a kör ívéről úgy, hogy az ív (ívni, ívás) szavunkban a nemzést is látja, hiszen, ahogy írja, a körnek íve önmagát nemzve, íva újítja magát meg (lásd erről [[K/Kezdet és vég\|kezdet és vég]] címnél írottakat is). Kibontva a témáról volt még szó [[O/Oval\|oval]] és [[O/Operate\|operate]] címnél: ott gyakorlatilag az alant kifejtett teremtésmondáról szóltunk.
+Fáy Elek könyvének 236. oldalán (lásd passzusát [[O/Ouroboros\|ouroboros]]) hasonlóan, szépen szól a kör nemző hajlásáról, a kör ívéről úgy, hogy az ív (ívni, ívás) szavunkban a nemzést is látja, hiszen, ahogy írja, a körnek íve önmagát nemzve, íva újítja magát meg (lásd erről [[K/Kezdet és vég\|kezdet és vég]] címnél írottakat is). Kibontva a témáról volt még szó [[O/Oval\|oval]] és [[O/Operate\|operate]] címnél: ott gyakorlatilag az alant kifejtett teremtésmondáról szóltunk.
 
 A fentebb említett One Bow or Another – A Study of the Bow in Genesis 9:8-17 című Ellen van Wolde által írt dolgozat témája azért is fontos, mert felveti, hogy – éppen a Genezisben – az Íj csillagképnek jelentősége van. A Biblia fordítói, értelmezői viszont helytelenül [[S/Szivárvány\|szivárvánny]]al fordították a bibliai-héber `qĕšĕt` szót. Ilyen és efféle félreértelmezésekből ki tudja hány lehet.  
 
