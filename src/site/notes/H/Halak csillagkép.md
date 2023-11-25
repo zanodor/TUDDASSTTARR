@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T04:19","updated":"2023-11-08T03:43"}
+{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T04:19","updated":"2023-11-25T10:46"}
 ---
 
 
@@ -17,7 +17,7 @@ A bölcsek szerint az életben egy biztos, a halál. Viszont az is biztosnak lá
 
 Mert ugye abban megállapodhatunk, hogy **a Halak-Vízöntő és a Szűz-Oroszlán váltópontján van a precessziós fényminimum és fénymaximum**. (A váltópont szó valójában nem is szükséges, mert kicsit túlmagyarázza miről van szó.)  
 E. W. Bullinger The Witness of the Stars című könyvének 22. oldalán álló adata szerint a Szűz a kezdő jegy és az Oroszlán az utolsó. Lehet némi igazsága, ha a [[S/Szűz-Halak tengely\|Szűz-Halak tengely]]t vesszük kiindulónak.  
-Ezt teszi Falvay Károly Nagyboldogasszony című könyvében is; a 244-245. oldalon olvasható (nála a Halak szintén a halál):  
+Ezt teszi Falvay Károly Nagyboldogasszony című könyvében is; a 244-245. oldalon olvasható (nála a Halak szintén a halál):  
 > A leánygyermek is 16-18 éves korában éli meg életútjának "virágba borulását". Az ún. Napút (Kelet-Nyugat) iránya az "életút" Szűz-Halak tengelyt jelöli ki, ami tehát a Szűzben kezdődik ("kelet"-indulás) és a Halakban (halál-átváltozásban) ér véget. (Erre az irányra vannak "keletelve" a régi templomok, s a "Szűz"-től születésképzet egyik magyarázatát is itt találhatjuk.)  
 - [[S/Szűz#Szűz mint kezdet\|Szűz mint kezdet]] cím/alcímnél több is van.  
 
@@ -84,7 +84,7 @@ Aztán lábjegyzetben:
 Ennek az egyiptomi-kopt-héber betű- és számmisztikának vajon lehet-e magyar eredete? Vagy inkább hun eredete, tekintve hogy a japán `hacsi` = nyolc éppen ilyen alakú!  
 Nyilván igen (persze inkább egy kevesebb hanggal számoló hun ábécében). Vegyük elő először is az árja nyolc szám nevét, melynek acht/atta/ohto neve a – nemcsak hímségi értelmű(!) – [[A/ATA\|ATA]] névvel azonos, de GM írhatta volna, hogy az angol [[E/Eight\|eight]] kiejtése és a h "éjcs" kiejtése is egyezik.  
 Arra pedig méginkább kevés esélye volt, hogy észrevegye, hogy a görög `ἰχθύς` (ikhthûs) = hal ismét ilyen [[E/Eight\|eight]] szóhoz hasonlító alakú!  
-Mit mond itt GM? Születésről beszél? Namost ez azért érdekes, mert a [[H/Halál\|halál]] után [[F/Feltámadás\|feltámadás]], születés következik, de főleg, hogy a [[N/Nagy Év\|Nagy Év]]ben a Halak az utolsó jegy. Itt, a Halak-Vízöntő határán születik újra a Nap, precessziós értelemben.  
+Mit mond itt GM? Születésről beszél? Na most ez azért érdekes, mert a [[H/Halál\|halál]] után [[F/Feltámadás\|feltámadás]], születés következik, de főleg, hogy a [[N/Nagy Év\|Nagy Év]]ben a Halak az utolsó jegy. Itt, a Halak-Vízöntő határán születik újra a Nap, precessziós értelemben.  
 (Még azon is elgondolkodtam, vajon Halak Ha-Lak felbontásban nem-e a Fény Háza értelmű?)  
 Hát a [[V/Vénusz\|Vénusz]] 8-as száma és a [[N/Nyolc\|nyolc]] szavunk mit hoz még ki számunkra lány, születés kapcsán?  
 Lásd még [[B/Bal és jobb\|bal és jobb]] címnél a lány és halál > [[F/Feltámadás\|feltámadás]] (születés), továbbá a [[S/Szűz\|szűz]]-[[S/Sothis\|Sothis]]-Szíriusz összefüggés-rendszerét is.  
@@ -100,7 +100,7 @@ Itt még a szív kapcsán annyit, hogy feltűnt már korábban, hogy miért nem 
 Aztán az is igen érdekes, hogy a germán szívet jelentő szavak H-betűsek, mint a Halak, mely Hal lehet persze ugyanúgy Kör (azonos alakú szavak), ráadásul két Kör, egybecsúsztatva. Itt a jelkép és a szavak mögött lehet valamit keresni.  
 
 A két kör témára visszatérve szóljunk még a [[L/Lemniszkáta\|lemniszkátá]]ról.  
-Falvay Károly Nagyboldogasszony című könyvének 198. oldalán lábjegyzetben írt alábbi passzusa érdekes lehet e kapcsán:  
+Falvay Károly Nagyboldogasszony című könyvének 198. oldalán lábjegyzetben írt alábbi passzusa érdekes lehet e kapcsán:  
 > Nagyboldogasszony szavunkat Kálmány pontosítja a hét Boldogasszonnyal. Boldogasszony könyvemben a fogalmat tovább pontosítottam az évkör leány és fiú születésének "**sötétség/világosság**" felosztására. Ez a felosztás a nőnemű oldalt két ciklusra (fogantatás: dec. 8, születés: szept. 8., és ezzel örökkévalóságra), a férfit viszont egy ciklusra (születés márc. 25, születés dec. 25.) és ennek megfelelő életre bontja. A sötétség és világosság fogalmak mára azonosultak nemcsak a magyar, de az indoeurópai nyelvekben is a nőnemű és hímnemű (tudatalatti és tudati) fogalmakkal, melyeket a pszichológiai tudományok megerősítettek.  
 - Erről a december 8.-i fogantatásról és a ciklusról mintha JM is írt volna. A dolog háttere, hogy szeptember 8.-án – Kisboldogasszony[^4] napján – ünnepli a római katolikus egyház Szűz Mária születésnapját (Nativitas Beatae Virginis).  
 
