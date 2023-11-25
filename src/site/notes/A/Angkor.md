@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Angkor/","title":"Angkor","tags":["dg_uploaded"],"created":"2023-10-13T01:21","updated":"2023-11-08T03:30"}
+{"dg-publish":true,"permalink":"/A/Angkor/","title":"Angkor","tags":["dg_uploaded"],"created":"2023-10-13T01:21","updated":"2023-11-25T10:02"}
 ---
 
 
@@ -21,4 +21,4 @@ Minden ily városnegyed körülbelül egy kilométer oldalhosszúságú, vagyis 
 PJI nem elemzi a nevet. Az Ang lehet Án és Ég (hun és magyar ég jelentéssel álló) szavaink egyfajta összemosása, agg szavunk orrhangos változata, kevésbé valószínűbben [[H/Hang\|hang]] szavunk hehezet nélkül.  
 Kor lehet kor és kör is \[a kor is kör, az időé\].  
 Lásd még említve [[A/Angel\|angel]] cím alján.  
-A mellékelt képek Falvay Károly Nagyboldogasszony című könyvéből valók.  
+A mellékelt képek Falvay Károly Nagyboldogasszony című könyvéből valók.  
