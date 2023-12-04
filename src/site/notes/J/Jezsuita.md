@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-09T06:12","updated":"2023-11-08T03:46"}
+{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-09T06:12","updated":"2023-12-04T06:27"}
 ---
 
 
@@ -34,7 +34,7 @@ Az [alábbi](https://hu.wikipedia.org/wiki/Jezsuita_összeesküvés-elméletek) 
 Egy másik [előadásban](https://youtu.be/ff7V_iqpucE) KT Robert Ware fenti 1689-es esküjét nevezi meg és 1:09:00-től el is mondja (a fenti szöveget). Az alábbi szöveget is felolvassa KT II. Rákóczi Ferenctől (maradjon így képileg):  
 ![assets/Jezsuita_image1.png](/img/user/J/assets/Jezsuita_image1.png)  
 
-Közben a jezsuitákról egy komoly 180 oldalas tényfeltáró anyag **The Jesuits and the One World Order** címmel.  
+ 
 
 Az [alábbi](http://valamiamano.blogspot.com/2014/03/a-jezsuitakrol-mondtak.html) oldalon Rákóczi mellett sokan véleményt mondanak a jezsuitákról. Például Napóleon:  
 > "A jezsuiták egy hadtestületet alkotnak, és nem egy vallási rendet. A főnökük egy hadseregnek parancsol, és nem csak egy sima rendház főnök. Ennek a szervezetnek a célja a hatalom – amit a legdespotikusabban akarnak gyakorolni – abszolút hatalom, egyetemes hatalom, egy olyan hatalom, hogy az egész világot lehessen vezetni egyetlen ember által. A jezsuitizmus az abszolút despotizmus, és ugyanakkor a legnagyobb hatalmi visszaélés..."  
@@ -54,7 +54,7 @@ Max Igan egyébként [[F/Fomenko, Anatolij\|Fomenko, Anatolij]] nevét is több 
 
 [^1]: Lábjegyzet:  
 Ezen YouTube felületre adott kommentemben is írom:  
-Valóban, a [[C/Címke\|címkézés]], a dolgok mibenlévőségének abszolutizálása, a tudatalattiba való beágyazása kulcsfontosságú az ellenerők oktatási/félrevezetési programjában. Ezért is tartom az etimológiát és filológiát a legfontosabb tudományterületnek. Persze ezzel régen is így voltak (például sevillai Izidor). Úgy gondolták, hogy a szavak eredeti jelentésének kifürkészése közelebb visz Istenhez. Csakhát ők a görög, latin és mondjuk a héber (vagy a másik "isteni" nyelv, a szanszkrit) nyelvek szavaival törődtek, holott leginkább a magyart érdemes vallatni az isteni misztériumok, természeti és asztrális/asztroteologiai vonatkozások ügyében. (Az idegen nyelvek szavai pedig hihetetlen sokat segítenek a magyar szavak értelmének és fogalmak rendezésének feltárásában illetve ügyében.)  
-A szavak, fogalmak valódi értelmének feltárása pedig éppen ősvallási-őstörteneti kérdések helyes tisztázásához elengedhetetlen. Ezért is fontos, hogy a dolgok fonákjáról közelítsük meg a kérdéseket, kivált, ha az igazságot is takarja.  
+Valóban, a [[C/Címke\|címkézés]], a dolgok mibenlévőségének abszolutizálása, a tudatalattiba való beágyazása kulcsfontosságú az ellenerők oktatási/félrevezetési programjában. Ezért is tartom az etimológiát és filológiát a legfontosabb tudományterületnek. Persze ezzel régen is így voltak (például sevillai Izidor). Úgy gondolták, hogy a szavak eredeti jelentésének kifürkészése közelebb visz Istenhez. Csak hát ők a görög, latin és mondjuk a héber (vagy a másik "isteni" nyelv, a szanszkrit) nyelvek szavaival törődtek, holott leginkább a magyart érdemes vallatni az isteni misztériumok, természeti és asztrális/asztroteológiai vonatkozások ügyében. (Az idegen nyelvek szavai pedig hihetetlen sokat segítenek a magyar szavak értelmének és fogalmak rendezésének feltárásában illetve ügyében.)  
+A szavak, fogalmak valódi értelmének feltárása pedig éppen ősvallási-őstörténeti kérdések helyes tisztázásához elengedhetetlen. Ezért is fontos, hogy a dolgok fonákjáról közelítsük meg a kérdéseket, kivált, ha az igazságot is takarja.  
 —  
 A megtévesztésről és a címkézésről szólva lehet említeni a rendszerváltás és a [[D/Democracy\|demokrácia]] fogalmait: nem volt rendszerváltás és nincsen demokrácia.  
