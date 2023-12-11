@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","tags":["dg_uploaded"],"created":"2023-10-11T04:38","updated":"2023-11-08T03:30"}
+{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","created":"2023-10-11T04:38","updated":"2023-11-08T03:30"}
 ---
 
 
@@ -54,8 +54,9 @@ Az Almus név mellett előjön egy másik hasonló név. TGY írja:
 
 Borbola János Ősmagyarul című az Ősi Gyökér 2018/1-2. sz. megjelent cikkében egy alternatív olvasatát adja a névnek: Ál-Mos nála az "Élő Mása"...  
 
-#### Kállay Ferenc A pogány magyarok vallása című könyvében írja:
+#### Kállay Ferenc A pogány magyarok vallása...  
 
+...című könyvében írja:  
 > A bolgár ismaeliták már rokonfajuak lévén a magyarokhoz, mint a Jakutból felhozott fölebbi nyilatkozat is mutatja, a volga bolgároknak szinte **Almus** nevű fejedelmek is lévén, s Luitprandis e rokonság mellett szólván, Damasek isten neve ennyiben magyarnak is vétethető, ámbár őseink Bachmuthot vagy Mohammedet nem tisztelték, mint azt a magyar földi ismaeliták tették. ([Lásd 24. old.](zotero://open-pdf/library/items/DFI47XPY?page=24&annotation=T9NH4VH7))  
 
 ## Álmos király volt – bizonyítja Isteni származása – Álmos és Jézus párhuzamok
