@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Akkád/","title":"Akkád","tags":["dg_uploaded"],"created":"2023-10-20T06:53","updated":"2023-11-08T03:29"}
+{"dg-publish":true,"permalink":"/A/Akkád/","title":"Akkád","created":"2023-10-20T06:53","updated":"2023-12-23T08:35"}
 ---
 
 
@@ -13,7 +13,7 @@ Nálam Ak-Kád, vagy A-Kád, Háza az Égnek/Istennek értelmű lenne, de (talá
 
 > A [[G/GAD\|Gad]] értelme Város, azt a szót láthatjuk viszont, amelyik A-Gad-E, vagyis Akkád eredeti nevében szerepel.  
 
-[[P/Práczki István\|Práczki István]]nál a [[K/KÁD\|Kád]] elem a Dák, Daha nép, a szokásos megfordításásos módszer alapján, míg GYÁ-nál "A Káld" nyomán jönne Akkád...  
+[[P/Práczki István\|Práczki István]]nál a [[K/KÁD\|Kád]] elem a Dák, Daha nép, a szokásos megfordításos módszer alapján, míg Gyárfás Ágnesnél "A Káld" nyomán jönne Akkád...  
 
 #### Pálfi Károly A magyar nemzet őstörténete és a zsidóság...
 
