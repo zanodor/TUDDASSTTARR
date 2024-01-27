@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-23T03:13","updated":"2023-11-08T03:44"}
+{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["Englishtexttranslated"],"created":"2023-10-23T03:13","updated":"2024-01-27T11:08"}
 ---
 
 
@@ -26,7 +26,7 @@ A Ku-Baba > Kubebe > [[C/Cybele\|Cybele]] fejlődési sorozatot – még ha PJI 
 Robert Temple Sirius Mystery könyve 110. oldalán szól arról, hogy a Humbaba-fej mintha belekből lenne kialkotva. [[M/Mithra\|Mithra]] címnél legutóbb írottak kapcsán vetődött fel bennem, hogy ez a belek = méh = mostani világkorszakbeli Skorpió csillagkép körüli terület lehet a [[G/Gilgames és Enkidu\|Gilgames és Enkidu]] mítoszában[^1] de ellenőrizni kell.  
 
 Az [alábbi](https://qr.ae/pNr3PT) Quora oldalon is leírtam válaszomban, hogy a Gilgames eposzban olvasható cédrus [[E/Erdő\|erdő]] az Istennő [[V/Vulva\|vulvá]]ját jelképezi (az eredő helye, hogy a fa a nimfa/tündér, aki [[B/Baba\|baba]] is lehet, és hogy a szavak átvezetnek más nyelvekbe, de leginkább azt kell látni, hogy az első mesék, mítoszok magyar nyelvűek voltak). Humbabára is kitértem, arra, hogy a [[W/Womb\|womb]] eredete mi lehet.  
-Az tény, hogy a baba szerepel a névben és a [[W/Womb\|womb]] = méh is hasonló, sőt, azonosnak látszó szó, RHA Star Names című könyvének 48. oldalának adatára alapozva:  
+Az tény, hogy a baba szerepel a névben és a [[W/Womb\|womb]] = méh is hasonló, sőt, azonosnak látszó szó, Richard H. Allen Star Names című könyvének 48. oldalának adatára alapozva:  
 > On the Ganges, as in China, Acquarius began the circle of the zodiacal signs; and Al Biruni said that at one time in India it was Khumba[^2], or Kumbaba, which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  
 > —  
 > A Gangesznél, akárcsak Kínában, a Vízöntő kezdte az állatövi jegyek körét; és Al Biruni szerint Indiában egykor Khumba vagy Kumbaba volt a neve, ami az ilyen nevű elámi istenségre, vagy Hesychios Viharistenére, Κόμβη-ra emlékeztet. Ez volt a tamil elnevezése is; La Lande Coumbumnak írja.  
