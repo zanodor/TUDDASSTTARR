@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútanya-testtájékok/","title":"Tejútanya-testtájékok","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-01T02:57","updated":"2023-11-08T04:20"}
+{"dg-publish":true,"permalink":"/T/Tejútanya-testtájékok/","title":"Tejútanya-testtájékok","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-01T02:57","updated":"2024-02-02T04:14"}
 ---
 
 
@@ -29,7 +29,7 @@ Mivel (Szűz) [[A/Anna\|Anna]], Ízisz illetve [[S/Sarama\|Sarama]] Szűzanya se
 
 Arról másutt is volt szó, hogy a **Tejútistennő fényes arca Szíriusz** (amely Szíriusz a tejútfa tetejére képzeltetett, ahogy a [[K/Karácsonyfa\|karácsonyfa]] csúcs-csillaga is Szíriusz); lásd még Jankovics Marcell Mély a múltnak kútja című könyvéből származó adatsort:  
 > Az ajtó, a kapu, a "megnyílnak az egek" metaforája – mely utóbbi, mint már jeleztem, arra a két naptári időszakra vonatkozik, amikor a Nap a Tejúton tartózkodván "feltárja annak kapuit", s ily módon nyit utat ég és föld között a lelkek számára, – a Születés jelképrendszerén belül azonos a megnyíló anyaöllel, s amennyiben a Napról, napistenről van szó, a Tejút hasadékával, mely – nem győzöm ismételgetni –, Szent Ivánkor látszik a legszebben, és amelyet karácsonykor hagy el a Nap. Ilyeténképpen Mária a Napot "felfaló” és "újraszülő" ősi tejút-faistennők örökébe lépett. Erről már szintén írtam másutt (1991: 99-111), itt csak egy, ideillő példát említek. Jézus szűzi fogantatásának dogmája – feltevésem szerint – azon a mindennapi megfigyelésen alapszik, hogy a Nap keleten kél (naptámadat) és nyugaton nyugszik (napáldozat, napszentület). Ezért ábrázolják Nut tejút- és faanyát a szájánál, a testében meg az ágyékánál napkoronggal. Ezért esnek a mesehősnők "világmegváltó hős fiaikkal" a szájukon át teherbe (JANKOVICS 1987: 61-62). És ez lehet a magyarázata annak is, hogy az Angyali üdvözlet hagyományos ábrázolásain a Szentlélek galambja nem Mária ölére, hanem – az általam látott képeken kivétel nélkül – a fejére ereszkedik.  
-- Ennek hímségi analógiája is megvan. Ahogy JM írja:  
+- Ennek hímségi analógiája is megvan. Ahogy Jankovics Marcell írja:  
 > A mesebeli Istent is felruházzák napisteni attribútumokkal. Ördög kérdésére: Mi van a világon csak egy, a helyes válasz: Egy az Isten, egy a Nap, egy feje van minden embernek (Az ördög kilenc kérdése). Mivel az Isten mellett mást is tartalmazhatott volna a válasz, amiből egy van csupán, a válogatás sem lehet véletlen; a három "egy" összetartozását akarja jelezni. (Ebben a "válogatásban" **a Nap égitest a megszemélyesített Isten feje**.)  
 
 Ennek ellenére Jankovics Marcell Ahol a madár se jár című könyvében nem veszi észre, hogy a fa tetejére [[S/Szíriusz\|Szíriusz]]t (mint istenanyát, annak fejét) is képzelték (nos, valójában arról van szó, hogy amikor a [[K/Khamor\|Khamor]] és [[K/Kazár\|kazár]] címnél is taglalt nyári napfordulós delelő Nap oda jut, akkor a Szíriusz nem a [[Z/Zenith\|zenit]]ben van, mert az a téli napfordulón van):  
@@ -55,7 +55,7 @@ JMJ írja másutt:
 > A Galaktikus Anticentrum a legfelső pont ebben az új keretben, mert ez az irány a galaxisunkból kifelé, a transzgalaktikus tartományokba vezet. A Plejádok, akárcsak a Nagy Medve, rövid távolságra vannak a rendszer legmagasabb pontjától, mégis mitikus és szimbolikus jelzőként szolgálnak.  
 - Az értelmezésből kiderül, hogy a Nyilasban van az északi kapu, az Ikrekben a déli. Ergo jelenleg – a Vaskorban – a Tejútfa fejjel lefelé áll (a fa gyökere van északon) és csak 13000 év múlva egyenesedik ki az Aranykorba érve.  
 JMJ a GC nem a Tejútfa koronájával, hanem a gyökerével való megfeleltetését érzi tehát helyesnek (lásd könyvének 266. oldalát), és JMJ-hez hasonlóan ismeri a feje tetején álló fa képzetét.  
-Legutóbb [[Z/Zep Tepi\|Zep Tepi]] címnél DCS magyarázatát a [[D/Dzsed\|dzsed]]-oszloppal kapcsolatosan azzal egészítettem/javítottam ki, hogy az oszlop kettős-bumszlis teteje az Ikrekre utalhat. Ergo a 13000 évvel állított Nyilas-Ikrek tengely fája már jó irányban áll, Nyilassal alul.  
+Legutóbb [[Z/Zep Tepi\|Zep Tepi]] címnél Dobos Csanád magyarázatát a [[D/Dzsed\|dzsed]]-oszloppal kapcsolatosan azzal egészítettem/javítottam ki, hogy az oszlop kettős-bumszlis teteje az Ikrekre utalhat. Ergo a 13000 évvel állított Nyilas-Ikrek tengely fája már jó irányban áll, Nyilassal alul.  
 - Érdekes még:  
 > Virgo, Sirius (the Galactic Anticenter indicator), and the Galactic Center are geometrically related in the sky, and Isis has found a home in each location.  
 > Spica and the Galactic Anticenter are almost exactly 90° away and the Galactic Anticenter is on the same meridian as Sirius.  
