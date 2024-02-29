@@ -19,28 +19,28 @@
 }
 
 /* For mermaid elements within callouts - Light Mode */
-.theme-light .markdown-preview-view .mermaid {
+.theme-light .markdown-preview-view div.mermaid {
   background: var(--background-primary);
   border-radius: 25px;
   padding: 10px;
 }
 
 /* For mermaid elements within callouts - Dark Mode */
-.theme-dark .markdown-preview-view .mermaid {
+.theme-dark .markdown-preview-view div.mermaid {
   background: var(--background-primary);
   border-radius: 25px;
   padding: 10px;
 }
 
 /* For standalone mermaid elements - Light Mode */
-.theme-light .mermaid {
+.theme-light div.mermaid {
   background: var(--background-primary);
   border-radius: 25px;
   padding: 10px;
 }
 
 /* For standalone mermaid elements - Dark Mode */
-.theme-dark .mermaid {
+.theme-dark div.mermaid {
   background: var(--background-primary);
   border-radius: 25px;
   padding: 10px;
