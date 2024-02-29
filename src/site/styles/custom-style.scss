@@ -5,7 +5,29 @@ body {
    ***/
 
         /*** Mermaid diagram background changes ***/
-        .markdown-preview-view pre.mermaid {
+        /* For mermaid elements within callouts - Light Mode */
+        .theme-light .markdown-preview-view pre.mermaid {
+          background: var(--background-primary);
+          border-radius: 25px;
+          padding: 10px;
+        }
+
+        /* For mermaid elements within callouts - Dark Mode */
+        .theme-dark .markdown-preview-view pre.mermaid {
+          background: var(--background-primary);
+          border-radius: 25px;
+          padding: 10px;
+        }
+
+        /* For standalone mermaid elements - Light Mode */
+        .theme-light .markdown-preview-view .mermaid {
+          background: var(--background-primary);
+          border-radius: 25px;
+          padding: 10px;
+        }
+
+        /* For standalone mermaid elements - Dark Mode */
+        .theme-dark .markdown-preview-view .mermaid {
           background: var(--background-primary);
           border-radius: 25px;
           padding: 10px;
