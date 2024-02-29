@@ -31,10 +31,6 @@ body {
 }
 
 /* Mermaid diagram background changes */
-.theme-dark .mermaid {
-    background-color: var(--background-primary);
-}
-
-.theme-light .mermaid {
+.div.mermaid {
     background-color: var(--background-primary);
 }
