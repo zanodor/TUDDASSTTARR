@@ -32,5 +32,6 @@ body {
 
 /* Mermaid diagram background changes */
 .div.mermaid {
+    text-align: center;
     background-color: #f9f5d7;
 }
