@@ -20,6 +20,11 @@ body {
 .theme-dark {
     --code-normal:                   var(--bright-orange);
     --code-background:               var(--dark1);
+    --mermaid-note:                  var(--dark0);
+    --mermaid-actor:                 var(--dark2);
+    --mermaid-loopline:              var(--neutral-blue);
+    --mermaid-exclude:               var(--dark4);
+    --mermaid-seqnum:                var(--dark0);
 }
 
 /* Change bold colour and inline code colour for light mode */
@@ -28,4 +33,9 @@ body {
     --italic-color:                  var(--dark0);
     --code-normal:                   var(--dark0);
     --code-background:               var(--light1);
+    --mermaid-note:                  var(--bright-blue);
+    --mermaid-actor:                 var(--light3);
+    --mermaid-loopline:              var(--neutral-blue);
+    --mermaid-exclude:               var(--light2);
+    --mermaid-seqnum:                var(--light0);
 }
