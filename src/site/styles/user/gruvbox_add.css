@@ -32,5 +32,5 @@ body {
 
 /* Mermaid diagram background changes */
 .div.mermaid {
-    background-color: var(--background-primary);
+    background-color: #f9f5d7;
 }
