@@ -15,7 +15,6 @@ body {
   /* font-family: 'Norse'; */
 }
 
-
 /* Change inline code for dark mode */
 .theme-dark {
     --code-normal:                   var(--bright-orange);
