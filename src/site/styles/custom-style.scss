@@ -3,13 +3,9 @@
   IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
 ***/
 
-/*** Az alábbiak csak úgy működtek, ha a digital-garden-base.scss-ből a mermaid-es sorokat kitöröltem.
-Azaz új template frissítéskor megint ki kell onnan majd törölni, vagy itt !important-okkal próbálkozni. ***/
 
+/*** Mermaid diagram background changes to blend in with Gruvbox backgrounds. ***/
 
-/*** De valójában semmit nem jelent, hogy ezeket ideteszem vagy sem, pedig 2 órája variálgatok. ***/
-
-/*** Mermaid diagram background changes ***/
 /* For mermaid elements within callouts - Light Mode */
 .theme-light .markdown-preview-view pre.mermaid {
   background: #fbf1c7 !important;
@@ -19,7 +15,7 @@ Azaz új template frissítéskor megint ki kell onnan majd törölni, vagy itt !
 
 /* For mermaid elements within callouts - Dark Mode */
 .theme-dark .markdown-preview-view pre.mermaid {
-  background: #282828 !important;
+  background: #1f1f1f !important;
   border-radius: 25px;
   padding: 10px;
 }
