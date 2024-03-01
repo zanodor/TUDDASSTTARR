@@ -1,6 +1,47 @@
-body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
+/***
+  ADD YOUR CUSTOM STYLING HERE. (OUTSIDE ANY SELECTOR.)
+  IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+***/
+
+/*** Mermaid diagram background changes ***/
+/* For mermaid elements within callouts - Light Mode */
+.theme-light .markdown-preview-view pre.mermaid {
+  background: #f9f5d7;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+/* For mermaid elements within callouts - Dark Mode */
+.theme-dark .markdown-preview-view pre.mermaid {
+  background: #1f1f1f;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+/* For mermaid elements within callouts - Light Mode */
+.theme-light .markdown-preview-view div.mermaid {
+  background: #f9f5d7;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+/* For mermaid elements within callouts - Dark Mode */
+.theme-dark .markdown-preview-view div.mermaid {
+  background: #1f1f1f;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+/* For standalone mermaid elements - Light Mode */
+.theme-light div.mermaid {
+  background: #f9f5d7;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+/* For standalone mermaid elements - Dark Mode */
+.theme-dark div.mermaid {
+  background: #1f1f1f;
+  border-radius: 25px;
+  padding: 10px;
 }

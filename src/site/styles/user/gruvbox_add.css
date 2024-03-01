@@ -28,9 +28,3 @@ body {
   --code-normal:                   var(--dark0);
   --code-background:               var(--light1);
 }
-
-.theme-light .markdown-preview-view pre.mermaid {
-  background: var(--background-primary);
-  border-radius: 25px;
-  padding: 10px;
-}
