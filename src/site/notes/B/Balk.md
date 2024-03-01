@@ -45,17 +45,9 @@ C["Csalfa"] ~~~ D["Delta"]
 A --- B & C --- D
 ```
 
+
 ```mermaid
-flowchart
-subgraph " "
-A["<b>ETYMON</b>"] --> B(Word1)
-B -- "megváltozása ezért történhetett (zárójelet double-quote-tal használhatsz)" --> D(Word2)
-B -- talán ezért történt volna --> E(Word3)
-B -- nem tudom, hogyan lett így --> F(Word4)
-end
-%%To not give a title, use space; empty string threw error
-subgraph "  "
-F --> G(Word5)
-end
+flowchart LR
+A["Altaj"] --- B["Balta"] & D["Csalfa"] --- D["Delta"]
 ```
 
