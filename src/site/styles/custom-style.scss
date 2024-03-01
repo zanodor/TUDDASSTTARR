@@ -4,6 +4,19 @@
 ***/
 
 
+/*** Transcluded elements double blockquote fix. ***/
+
+.markdown-preview-view .markdown-embed-content .markdown-rendered blockquote {
+  margin-left: -60px;
+  padding-left: 12px;
+}
+
+.internal-embed .markdown-rendered blockquote {
+  margin-left: 0px;
+  padding-left: 20px;
+}
+
+
 /*** Mermaid diagram background changes to blend in with Gruvbox backgrounds. ***/
 
 /* For mermaid elements within callouts - Light Mode */
