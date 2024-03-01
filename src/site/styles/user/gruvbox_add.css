@@ -3,8 +3,6 @@
 {
     --dark0_x:          31,31,31; /* #1f1f1f dark theme primary background*/
     --light0_x:         171,168,154; /* #aba89a text colour for dark theme*/
-    --mermaid-note:                  var(--faded-orange);
-    --mermaid-loopline:              var(--faded-orange);
 }
 
 html,
