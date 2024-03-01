@@ -3,45 +3,48 @@
   IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
 ***/
 
+/*** Az alábbiak csak úgy működtek, ha a digital-garden-base.scss-ből a mermaid-es sorokat kitöröltem.
+Azaz új template frissítéskor megint ki kell onnan majd törölni, vagy itt !important-okkal próbálkozni. ***/
+
 /*** Mermaid diagram background changes ***/
 /* For mermaid elements within callouts - Light Mode */
 .theme-light .markdown-preview-view pre.mermaid {
-  background: #f9f5d7;
+  background: #f9f5d7 !important;
   border-radius: 25px;
   padding: 10px;
 }
 
 /* For mermaid elements within callouts - Dark Mode */
 .theme-dark .markdown-preview-view pre.mermaid {
-  background: #1f1f1f;
+  background: #1f1f1f !important;
   border-radius: 25px;
   padding: 10px;
 }
 
 /* For mermaid elements within callouts - Light Mode */
 .theme-light .markdown-preview-view div.mermaid {
-  background: #f9f5d7;
+  background: #f9f5d7 !important;
   border-radius: 25px;
   padding: 10px;
 }
 
 /* For mermaid elements within callouts - Dark Mode */
 .theme-dark .markdown-preview-view div.mermaid {
-  background: #1f1f1f;
+  background: #1f1f1f !important;
   border-radius: 25px;
   padding: 10px;
 }
 
 /* For standalone mermaid elements - Light Mode */
 .theme-light div.mermaid {
-  background: #f9f5d7;
+  background: #f9f5d7 !important;
   border-radius: 25px;
   padding: 10px;
 }
 
 /* For standalone mermaid elements - Dark Mode */
 .theme-dark div.mermaid {
-  background: #1f1f1f;
+  background: #1f1f1f !important;
   border-radius: 25px;
   padding: 10px;
 }
