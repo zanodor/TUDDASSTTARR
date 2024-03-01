@@ -9,42 +9,42 @@ Azaz új template frissítéskor megint ki kell onnan majd törölni, vagy itt !
 /*** Mermaid diagram background changes ***/
 /* For mermaid elements within callouts - Light Mode */
 .theme-light .markdown-preview-view pre.mermaid {
-  background: #f9f5d7 !important;
+  background: var(--background-primary) !important;
   border-radius: 25px;
   padding: 10px;
 }
 
 /* For mermaid elements within callouts - Dark Mode */
 .theme-dark .markdown-preview-view pre.mermaid {
-  background: #1f1f1f !important;
+  background: var(--background-primary) !important;
   border-radius: 25px;
   padding: 10px;
 }
 
 /* For mermaid elements within callouts - Light Mode */
 .theme-light .markdown-preview-view div.mermaid {
-  background: #f9f5d7 !important;
+  background: var(--background-primary) !important;
   border-radius: 25px;
   padding: 10px;
 }
 
 /* For mermaid elements within callouts - Dark Mode */
 .theme-dark .markdown-preview-view div.mermaid {
-  background: #1f1f1f !important;
+  background: var(--background-primary) !important;
   border-radius: 25px;
   padding: 10px;
 }
 
 /* For standalone mermaid elements - Light Mode */
 .theme-light div.mermaid {
-  background: #f9f5d7 !important;
+  background: var(--background-primary) !important;
   border-radius: 25px;
   padding: 10px;
 }
 
 /* For standalone mermaid elements - Dark Mode */
 .theme-dark div.mermaid {
-  background: #1f1f1f !important;
+  background: var(--background-primary) !important;
   border-radius: 25px;
   padding: 10px;
 }
