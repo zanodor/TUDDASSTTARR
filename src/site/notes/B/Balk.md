@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balk/","title":"Balk","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-09T07:00","updated":"2024-03-01T15:17"}
+{"dg-publish":true,"permalink":"/B/Balk/","title":"Balk","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-09T07:00","updated":"2024-03-01T16:41"}
 ---
 
 
@@ -32,22 +32,5 @@ A kiindulópont [[B/Bál\|Bál]] és a tiszteletére emelt kőoszlop fogalma mel
 Mennek-e:  
 ```mermaid
 flowchart LR
-A["Altaj"] ~~~ B["Balta"]
-C["Csalfa"] ~~~ D["Delta"]
-A --- B & C --- D
-B ~~~ D & A ~~~ C
-```
-
-```mermaid
-flowchart LR
-A["Altaj"] ~~~ B["Balta"]
-C["Csalfa"] ~~~ D["Delta"]
-A --- B & C --- D
-```
-
-
-```mermaid
-flowchart LR
 A["Altaj"] --- B["Balta"] & D["Csalfa"] --- D["Delta"]
 ```
-
