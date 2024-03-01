@@ -23,8 +23,54 @@ body {
 
 /* Change bold colour and inline code colour for light mode */
 .theme-light {
-  --bold-color:                    var(--dark0);
-  --italic-color:                  var(--dark0);
-  --code-normal:                   var(--dark0);
-  --code-background:               var(--light1);
+    --bold-color:                    var(--dark0);
+    --italic-color:                  var(--dark0);
+    --code-normal:                   var(--dark0);
+    --code-background:               var(--light1);
+}
+
+/* Az alábbiak csak úgy működtek, ha a digital-garden-base.scss-ből a mermaid-es sorokat kitöröltem.
+Azaz új template frissítéskor megint ki kell onnan majd törölni, vagy itt !important-okkal próbálkozni. */
+
+/*** Mermaid diagram background changes ***/
+/* For mermaid elements within callouts - Light Mode */
+.theme-light .markdown-preview-view pre.mermaid {
+background: #fbf1c7 !important;
+border-radius: 25px;
+padding: 10px;
+}
+
+/* For mermaid elements within callouts - Dark Mode */
+.theme-dark .markdown-preview-view pre.mermaid {
+background: #282828 !important;
+border-radius: 25px;
+padding: 10px;
+}
+
+/* For mermaid elements within callouts - Light Mode */
+.theme-light .markdown-preview-view div.mermaid {
+background: #fbf1c7 !important;
+border-radius: 25px;
+padding: 10px;
+}
+
+/* For mermaid elements within callouts - Dark Mode */
+.theme-dark .markdown-preview-view div.mermaid {
+background: #282828 !important;
+border-radius: 25px;
+padding: 10px;
+}
+
+/* For standalone mermaid elements - Light Mode */
+.theme-light div.mermaid {
+background: #fbf1c7 !important;
+border-radius: 25px;
+padding: 10px;
+}
+
+/* For standalone mermaid elements - Dark Mode */
+.theme-dark div.mermaid {
+background: #282828 !important;
+border-radius: 25px;
+padding: 10px;
 }
