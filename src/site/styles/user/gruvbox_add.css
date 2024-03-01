@@ -23,8 +23,14 @@ body {
 
 /* Change bold colour and inline code colour for light mode */
 .theme-light {
-    --bold-color:                    var(--dark0);
-    --italic-color:                  var(--dark0);
-    --code-normal:                   var(--dark0);
-    --code-background:               var(--light1);
+  --bold-color:                    var(--dark0);
+  --italic-color:                  var(--dark0);
+  --code-normal:                   var(--dark0);
+  --code-background:               var(--light1);
+}
+
+.theme-light .markdown-preview-view pre.mermaid {
+  background: var(--background-primary);
+  border-radius: 25px;
+  padding: 10px;
 }

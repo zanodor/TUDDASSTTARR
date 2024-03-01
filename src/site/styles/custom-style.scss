@@ -3,24 +3,4 @@ body {
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-
-        /*** Mermaid diagram background changes ***/
-        /* For mermaid elements within callouts - Light Mode */
-        .markdown-preview-view pre.mermaid {
-          background: var(--background-primary);
-          border-radius: 25px;
-          padding: 10px;
-        }
-
-        .cm-s-obsidian div.mermaid {
-          background: var(--background-primary);
-          border-radius: 25px;
-          padding: 10px;
-        }
-
-        .cm-s-obsidian mermaid {
-          background: var(--background-primary);
-          border-radius: 25px;
-          padding: 10px;
-        }
 }
