@@ -34,6 +34,73 @@ A kiindulópont [[B/Bál\|Bál]] és a tiszteletére emelt kőoszlop fogalma mel
   init: {
     'theme': 'base',
     'themeVariables': {
+      'primaryColor': '#1f1f1f',
+      'primaryTextColor': '#ABA89A',
+      'primaryBorderColor': '#000000',
+      'lineColor': '#ABA89A',
+    }
+  }
+}%%
+
+flowchart LR
+
+	head[<b>M-Z/V-Z</b>]
+	lvl2_a("víz")
+	lvl2_b("méz")
+	lvl3_a("vedel")
+	lvl3_b("vidék")
+	lvl3_c("hun-szláv <code>med</code> = méz")
+	lvl3_d("<code>medos</code> = mézsör")
+
+	head --> lvl2_a & lvl2_b
+	lvl2_a -- "Z←→D" -->  lvl3_a & lvl3_b
+	lvl2_b -- "Z←→D" -->  lvl3_c & lvl3_d
+
+	classDef fillStyle stroke:#000000,stroke-width:1px,stroke-dasharray: 0;
+	class head,lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_c,lvl3_d fillStyle;
+```
+
+
+```mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#1f1f1f',
+      'primaryTextColor': '#ABA89A',
+      'primaryBorderColor': '#000000',
+      'lineColor': '#ABA89A',
+      'tertiaryColor': '#fff'
+    }
+  }
+}%%
+
+flowchart LR
+
+	head[<b>M-Z/V-Z</b>]
+	lvl2_a("víz")
+	lvl2_b("méz")
+	lvl3_a("vedel")
+	lvl3_b("vidék")
+	lvl3_c("hun-szláv <code>med</code> = méz")
+	lvl3_d("<code>medos</code> = mézsör")
+
+	head --> lvl2_a & lvl2_b
+	lvl2_a -- "Z←→D" -->  lvl3_a & lvl3_b
+	lvl2_b -- "Z←→D" -->  lvl3_c & lvl3_d
+
+	classDef fillStyle stroke:#000000,stroke-width:1px,stroke-dasharray: 0;
+	class head,lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_c,lvl3_d fillStyle;
+```
+
+
+---
+
+```mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
       'primaryTextColor': '#ABA89A',
     }
   }
