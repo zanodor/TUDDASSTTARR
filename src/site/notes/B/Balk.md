@@ -29,6 +29,72 @@ A kiindulópont [[B/Bál\|Bál]] és a tiszteletére emelt kőoszlop fogalma mel
 
 ---
 
+
+```mermaid
+%%{
+  init: {
+    'theme': 'base',	
+    'themeVariables': {
+      'primaryColor': '#BB2528',
+      'primaryTextColor': '#ABA89A',
+      'primaryBorderColor': '#7C0000',
+      'lineColor': '#F8B229',
+      'secondaryColor': '#006100',
+      'tertiaryColor': '#fff'
+    }
+  }
+}%%
+        graph TD
+          A[Christmas] -->|Get money| B(Go shopping)
+          B --> C{Let me think}
+          B --> G[/Another/]
+          C ==>|One| D[Laptop]
+          C -->|Two| E[iPhone]
+          C -->|Three| F[fa:fa-car Car]
+          subgraph section
+            C
+            D
+            E
+            F
+            G
+          end
+```
+
+```mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#403c34',
+      'primaryTextColor': '#ABA89A',
+      'primaryBorderColor': '#000000',
+      'lineColor': '#ABA89A',
+      'tertiaryColor': '#fff'
+    }
+  }
+}%%
+
+flowchart LR
+
+	head[<b>M-Z/V-Z</b>]
+	lvl2_a("víz")
+	lvl2_b("méz")
+	lvl3_a("vedel")
+	lvl3_b("vidék")
+	lvl3_c("hun-szláv <code>med</code> = méz")
+	lvl3_d("<code>medos</code> = mézsör")
+
+	head --> lvl2_a & lvl2_b
+	lvl2_a -- "Z←→D" -->  lvl3_a & lvl3_b
+	lvl2_b -- "Z←→D" -->  lvl3_c & lvl3_d
+
+	classDef fillStyle fill:#403c34,stroke:#000000,stroke-width:1px,stroke-dasharray: 0;
+	class head,lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_c,lvl3_d fillStyle;
+```
+
+
+---
+
 ```mermaid
 %%{
   init: {
