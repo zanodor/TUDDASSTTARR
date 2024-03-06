@@ -52,3 +52,14 @@
   text-align: center;
   text-fill: #aba89a !important;
 }
+
+/* custom-mermaid-theme.css */
+
+.mermaid-theme-custom {
+  --primary-color: #BB2528;
+  --primary-text-color: #ABA89A;
+  --primary-border-color: #000000;
+  --line-color: #F8B229;
+  --secondary-color: #006100;
+  --tertiary-color: #fff;
+}
