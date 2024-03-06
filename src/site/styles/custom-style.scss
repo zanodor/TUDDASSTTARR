@@ -41,6 +41,7 @@
   border-radius: 25px;
   padding: 10px;
   text-align: center;
+  text-fill: #aba89a !important;
 }
 
 /* For standalone mermaid elements - Dark Mode */
@@ -49,12 +50,5 @@
   border-radius: 25px;
   padding: 10px;
   text-align: center;
-}
-
-.theme-dark .mermaid text {
-    fill: #aba89a !important;
-}
-
-.theme-light .mermaid text {
-    fill: #aba89a !important;
+  text-fill: #aba89a !important;
 }
