@@ -22,23 +22,12 @@ Lám, Kállay Ferenc A pogány magyarok vallása című könyvének [139. oldal�
 [[B/Balk\|Balk]] neve is ilyen, csak a szóvégi -Án nélkül.  
 
 ```mermaid
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'primaryColor': '#1f1f1f',
-      'primaryTextColor': '#aba98a',
-      'primaryBorderColor': '#000000',
-      'lineColor': '#aba98a',
-      'secondaryColor': '#1f1f1f',
-      'tertiaryColor': '#fff'
-    }
-  }
-}%%
+%%{ init: { 'theme': 'base', 'themeVariables': { 'primaryColor': '#1f1f1f', 'primaryTextColor': '#aba89a', 'primaryBorderColor': '#000000', 'lineColor': '#aba89a', 'secondaryColor': '#1f1f1f', 'tertiaryColor': '#fff' } } }%%
+
 
 flowchart LR
 
-	head[M-Z/V-Z]
+	head[<b>M-Z/V-Z</b>]
 	lvl2_a("víz")
 	lvl2_b("méz")
 	lvl3_a("vedel")
@@ -49,7 +38,4 @@ flowchart LR
 	head --> lvl2_a & lvl2_b
 	lvl2_a -- "Z←→D" -->  lvl3_a & lvl3_b
 	lvl2_b -- "Z←→D" -->  lvl3_c & lvl3_d
-
-	classDef fillStyle fill:#1f1f1f,stroke:#000000,stroke-width:1px,stroke-dasharray: 0;
-	class head,lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_c,lvl3_d fillStyle;
 ```

@@ -29,19 +29,8 @@ A kiindulópont [[B/Bál\|Bál]] és a tiszteletére emelt kőoszlop fogalma mel
 
 
 ```mermaid
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'primaryColor': '#1f1f1f',
-      'primaryTextColor': '#aba98a',
-      'primaryBorderColor': '#000000',
-      'lineColor': '#aba98a',
-      'secondaryColor': '#1f1f1f',
-      'tertiaryColor': '#fff'
-    }
-  }
-}%%
+%%{ init: { 'theme': 'base', 'themeVariables': { 'primaryColor': '#1f1f1f', 'primaryTextColor': '#aba89a', 'primaryBorderColor': '#000000', 'lineColor': '#aba89a', 'secondaryColor': '#1f1f1f', 'tertiaryColor': '#fff' } } }%%
+
 
 flowchart LR
 
