@@ -31,6 +31,7 @@ A kiindulópont [[B/Bál\|Bál]] és a tiszteletére emelt kőoszlop fogalma mel
 
 
 flowchart LR
+
 	head[<b>M-Z/V-Z</b>]
 	lvl2_a("víz")
 	lvl2_b("méz")
@@ -45,12 +46,14 @@ flowchart LR
 
 	classDef fillStyle stroke:#000000,stroke-width:1px,stroke-dasharray: 0;
 	class head,lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_c,lvl3_d fillStyle;
+	class lvl2_a,lvl2_b,lvl3_a,lvl3_b internal-link;
 ```
 
 ```mermaid
 
 
 flowchart LR
+
 	head[<b>M-Z/V-Z</b>]
 	lvl2_a("víz")
 	lvl2_b("méz")
