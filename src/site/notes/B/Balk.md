@@ -27,6 +27,85 @@ Götz László Keleten kél a Nap című könyvének 191. oldalán előjön a n�
 Viszont itt sem utólagosan készült igékből kell kiindulni.  
 A kiindulópont [[B/Bál\|Bál]] és a tiszteletére emelt kőoszlop fogalma mely [[P/Pole#Pole 2)\|pole]] = tengely is lehet.  
 
+```mermaid
+flowchart LR
+
+	head["<code><b>M-Z/V-Z</b></code>"]
+	lvl2_a("<code>víz</code>")
+	lvl2_b("<code>méz</code>")
+	lvl3_a("<code>vedel</code>")
+	lvl3_b("<code>vidék</code>")
+	lvl3_c("<code>hun-szláv med = méz</code>")
+	lvl3_d("<code>medos = mézsör</code>")
+
+	head --> lvl2_a & lvl2_b
+	lvl2_a -- "Z←→D" -->  lvl3_a & lvl3_b
+	lvl2_b -- "Z←→D" -->  lvl3_c & lvl3_d
+
+	classDef fillStyle fill:#403c34,stroke:#000000,stroke-width:1px,stroke-dasharray: 0;
+	class head,lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_c,lvl3_d fillStyle;
+```
+
+```mermaid
+flowchart LR
+
+	head["<code><b>M-Z/V-Z</b></code>"]
+	lvl2_a("<code>víz</code>")
+	lvl2_b("<code>méz</code>")
+	lvl3_a("<code>vedel</code>")
+	lvl3_b("<code>vidék</code>")
+	lvl3_c("<code>hun-szláv med = méz</code>")
+	lvl3_d("<code>medos = mézsör</code>")
+
+	head --> lvl2_a & lvl2_b
+	lvl2_a -- "Z←→D" -->  lvl3_a & lvl3_b
+	lvl2_b -- "Z←→D" -->  lvl3_c & lvl3_d
+
+	classDef fillStyle fill:#e7545c,stroke:#000000,stroke-width:1px,stroke-dasharray: 0;
+	class head,lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_c,lvl3_d fillStyle;
+```
+
+---
+
+
+```mermaid
+flowchart LR
+
+	head["<code><M-Z/V-Z</code>"]
+	lvl2_a("<code>víz</code>")
+	lvl2_b("<code>méz</code>")
+	lvl3_a("<code>vedel</code>")
+	lvl3_b("<code>vidék</code>")
+	lvl3_c("<code>hun-szláv med = méz</code>")
+	lvl3_d("<code>medos = mézsör</code>")
+
+	head --> lvl2_a & lvl2_b
+	lvl2_a -- "Z←→D" -->  lvl3_a & lvl3_b
+	lvl2_b -- "Z←→D" -->  lvl3_c & lvl3_d
+
+	classDef fillStyle fill:#403c34,stroke:#000000,stroke-width:1px,stroke-dasharray: 0;
+	class head,lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_c,lvl3_d fillStyle;
+```
+
+```mermaid
+flowchart LR
+
+	head["<code>M-Z/V-Z</code>"]
+	lvl2_a("<code>víz</code>")
+	lvl2_b("<code>méz</code>")
+	lvl3_a("<code>vedel</code>")
+	lvl3_b("<code>vidék</code>")
+	lvl3_c("<code>hun-szláv med = méz</code>")
+	lvl3_d("<code>medos = mézsör</code>")
+
+	head --> lvl2_a & lvl2_b
+	lvl2_a -- "Z←→D" -->  lvl3_a & lvl3_b
+	lvl2_b -- "Z←→D" -->  lvl3_c & lvl3_d
+
+	classDef fillStyle fill:#e7545c,stroke:#000000,stroke-width:1px,stroke-dasharray: 0;
+	class head,lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_c,lvl3_d fillStyle;
+```
+
 ---
 
 ```mermaid
