@@ -31,21 +31,31 @@ A kiindulópont [[B/Bál\|Bál]] és a tiszteletére emelt kőoszlop fogalma mel
 ```mermaid
 %%{ init: { 'theme': 'base', 'themeVariables': { 'primaryColor': '#1f1f1f', 'primaryTextColor': '#aba89a', 'primaryBorderColor': '#000000', 'lineColor': '#aba89a', 'secondaryColor': '#1f1f1f', 'tertiaryColor': '#fff' } } }%%
 
-
 flowchart LR
+head[<b>M-Z/V-Z</b>]
+lvl2_a("víz")
+lvl2_b("méz")
+lvl3_a("vedel")
+lvl3_b("vidék")
+lvl3_c("hun-szláv <code>med</code> = méz")
+lvl3_d("<code>medos</code> = mézsör")
 
-	head[<b>M-Z/V-Z</b>]
-	lvl2_a("víz")
-	lvl2_b("méz")
-	lvl3_a("vedel")
-	lvl3_b("vidék")
-	lvl3_c("hun-szláv <code>med</code> = méz")
-	lvl3_d("<code>medos</code> = mézsör")
+head --> lvl2_a & lvl2_b
+lvl2_a -- "Z←→D" -->  lvl3_a & lvl3_b
+lvl2_b -- "Z←→D" -->  lvl3_c & lvl3_d
+```
 
-	head --> lvl2_a & lvl2_b
-	lvl2_a -- "Z←→D" -->  lvl3_a & lvl3_b
-	lvl2_b -- "Z←→D" -->  lvl3_c & lvl3_d
+```mermaid
+%%{ init: { 'theme': 'base', 'themeVariables': { 'primaryColor': '#1f1f1f', 'primaryTextColor': '#aba89a', 'primaryBorderColor': '#000000', 'lineColor': '#aba89a', 'secondaryColor': '#1f1f1f', 'tertiaryColor': '#fff' } } }%%
 
-	classDef fillStyle stroke:#000000,stroke-width:1px,stroke-dasharray: 0;
-	class head,lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_c,lvl3_d fillStyle;
+flowchart TD
+head["<b>K-T (H-T)</b>"]
+lvl2_a("kutya")
+lvl2_b("Word3")
+lvl2_c("hattyú")
+lvl3_a("Word1")
+
+head --> lvl2_a & lvl2_b
+head -- "Lásd" --> lvl2_c
+lvl2_a --> lvl3_a & lvl2_b
 ```

@@ -20,22 +20,3 @@ Mivel [[B/Balog\|Balog]] a Nap legmagasabb pontjára utal, hegyet is jelenthet i
 Lám, Kállay Ferenc A pogány magyarok vallása című könyvének [139. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=139&annotation=DVWHPKZ2) írja, hogy a Balkány, Balkán a tatár nyelvekben hegyet jelent, majd ugyanezen oldalon, szintén lábjegyzetes adatként írja, hogy a magyar Bárkán helység ma Párkány. Mely az L-R azonosság alapján felveti, hogy a [[B/Balcony\|balcony]] alapfogalma mögött is a hegy lehetne meg.  
 
 [[B/Balk\|Balk]] neve is ilyen, csak a szóvégi -Án nélkül.  
-
-```mermaid
-%%{ init: { 'theme': 'base', 'themeVariables': { 'primaryColor': '#1f1f1f', 'primaryTextColor': '#aba89a', 'primaryBorderColor': '#000000', 'lineColor': '#aba89a', 'secondaryColor': '#1f1f1f', 'tertiaryColor': '#fff' } } }%%
-
-
-flowchart LR
-
-	head[<b>M-Z/V-Z</b>]
-	lvl2_a("víz")
-	lvl2_b("méz")
-	lvl3_a("vedel")
-	lvl3_b("vidék")
-	lvl3_c("hun-szláv <code>med</code> = méz")
-	lvl3_d("<code>medos</code> = mézsör")
-
-	head --> lvl2_a & lvl2_b
-	lvl2_a -- "Z←→D" -->  lvl3_a & lvl3_b
-	lvl2_b -- "Z←→D" -->  lvl3_c & lvl3_d
-```
