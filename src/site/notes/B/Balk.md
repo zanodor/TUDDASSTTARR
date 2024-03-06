@@ -27,8 +27,21 @@ Götz László Keleten kél a Nap című könyvének 191. oldalán előjön a n�
 Viszont itt sem utólagosan készült igékből kell kiindulni.  
 A kiindulópont [[B/Bál\|Bál]] és a tiszteletére emelt kőoszlop fogalma mely [[P/Pole#Pole 2)\|pole]] = tengely is lehet.  
 
-```mermaid
 
+```mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#1f1f1f',
+      'primaryTextColor': '#aba98a',
+      'primaryBorderColor': '#000000',
+      'lineColor': '#aba98a',
+      'secondaryColor': '#1f1f1f',
+      'tertiaryColor': '#fff'
+    }
+  }
+}%%
 
 flowchart LR
 
