@@ -28,7 +28,19 @@ Viszont itt sem utólagosan készült igékből kell kiindulni.
 A kiindulópont [[B/Bál\|Bál]] és a tiszteletére emelt kőoszlop fogalma mely [[P/Pole#Pole 2)\|pole]] = tengely is lehet.  
 
 ```mermaid
-
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#1f1f1f',
+      'primaryTextColor': '#ABA89A',
+      'primaryBorderColor': '#000000',
+      'lineColor': '#ABA89A',
+      'secondaryColor': '#1f1f1f',
+      'tertiaryColor': '#fff'
+    }
+  }
+}%%
 
 flowchart LR
 
@@ -46,4 +58,5 @@ flowchart LR
 
 	classDef fillStyle stroke:#000000,stroke-width:1px,stroke-dasharray: 0;
 	class head,lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_c,lvl3_d fillStyle;
+	class lvl2_a,lvl2_b,lvl3_a,lvl3_b internal-link;
 ```
