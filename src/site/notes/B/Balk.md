@@ -32,6 +32,22 @@ A kiindulópont [[B/Bál\|Bál]] és a tiszteletére emelt kőoszlop fogalma mel
 ```mermaid
 flowchart LR
 head[<b>M-Z/V-Z</b>] --> lvl2_a("víz") & lvl2_b("méz")
+lvl2_a -- "Z-D" -->  lvl3_a("vedel") & lvl3_b("vidék")
+lvl2_b -- "Z-D" -->  lvl3_c("hun-szláv med 'méz'") & lvl3_d("medos 'mézsör'")
+style head stroke-width:2px,stroke-dasharray: 0
+```
+
+```mermaid
+flowchart LR
+head[<b>M-Z/V-Z</b>] --> lvl2_a("víz") & lvl2_b("méz")
+lvl2_a -- "Z-D" -->  lvl3_a("vedel") & lvl3_b("vidék")
+lvl2_b -- "Z-D" -->  lvl3_c("hun-szláv med = méz") & lvl3_d("medos = mézsör")
+style head stroke-width:2px,stroke-dasharray: 0
+```
+
+```mermaid
+flowchart LR
+head[<b>M-Z/V-Z</b>] --> lvl2_a("víz") & lvl2_b("méz")
 lvl2_a -- Z←→D -->  lvl3_a("vedel") & lvl3_b("vidék")
 lvl2_b -- Z←→D -->  lvl3_c("hun-szláv med = méz") & lvl3_d("medos = mézsör")
 style head stroke-width:2px,stroke-dasharray: 0
