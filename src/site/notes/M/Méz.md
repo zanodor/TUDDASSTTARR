@@ -33,7 +33,7 @@ lvl2_a -- "V→M" ---> lvl3_f("mix")
 lvl2_a -- "D=GY" ---> lvl3_g("vegyít")
 lvl3_g --> lvl3_f
 
-classDef fillStyle fill:#403c34,stroke:#000000,stroke-width:1px,stroke-dasharray: 0;
+classDef fillStyle fill:#1b1212,stroke:#403c34,stroke-width:1px,stroke-dasharray: 0;
 class head,lvl2_0,lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_c,lvl3_d,lvl3_e,lvl3_f,lvl3_g,lvl3_x fillStyle;
 class lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_f internal-link;
 ```
