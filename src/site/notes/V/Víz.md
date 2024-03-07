@@ -14,7 +14,6 @@
 [[V/Vicinity\|Vicinity]] címnél is szóltunk (a viskó ellen) a víz szóból való levezethetőségről.
 
 ```mermaid
-
 flowchart LR
 head["<b>M-Z/V-Z</b>"]
  head --> lvl2_0
@@ -29,7 +28,8 @@ lvl3_g --> lvl3_f
 
  class head,lvl2_0,lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_c,lvl3_d,lvl3_e,lvl3_f,lvl3_g,lvl3_x fillStyle;
 %% class lvl2_a,lvl2_b,lvl3_a0,lvl3_a1,lvl3_a2,lvl3_b1,lvl3_b2,lvl3_f internal-link;
-```{ #zwstf}
+```
+{ #zwstf}
 
 ```plantuml
 @startuml
