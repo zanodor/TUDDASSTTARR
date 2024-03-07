@@ -31,6 +31,25 @@ lvl3_g --> lvl3_f
 %% class lvl2_a,lvl2_b,lvl3_a0,lvl3_a1,lvl3_a2,lvl3_b1,lvl3_b2,lvl3_f internal-link;
 ```{ #zwstf}
 
+```plantuml
+@startuml
+skinparam handwritten true
+	component a {
+	}
+	note left of a
+		handwritten is OK
+	end note
+	
+	note right of a
+		{{
+			a->b:test
+			note right
+				handwritten is inherited
+			end note
+		}}
+	end note
+@enduml
+```
 
 Víz nélkül nincs élet, ahogy anya nélkül sincs (erről szóltunk számtalan helyen, mint például [[M/Mocsár-mitológia\|mocsár-mitológia]], [[C/Csallóköz\|Csallóköz]] és [[N/Navel\|navel]] címnél).  
 Itt egy fontos ponthoz érkeztünk, hisz annak a bizonyítása következhetne, hogy [[I/Íz\|Íz]] = Tűzből V előtéttel lett víz, onnan pedig [[F/Föld\|Föld]]i anyag, illetve [[I/ID\|ID]] = Isten, isteni fény V-előhangosan lesz [[V/VID\|VID]], földi megnyilvánulásaként.  
