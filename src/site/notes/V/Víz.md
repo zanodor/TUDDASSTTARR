@@ -51,6 +51,22 @@ skinparam handwritten true
 @enduml
 ```
 
+```plantuml
+@startmindmap
+skinparam backgroundcolor #f9f5d7
+
+* World
+** America
+*** Canada
+*** Mexico
+*** USA
+** Europe
+*** England
+*** Germany
+*** Spain
+@endmindmap
+```
+
 Víz nélkül nincs élet, ahogy anya nélkül sincs (erről szóltunk számtalan helyen, mint például [[M/Mocsár-mitológia\|mocsár-mitológia]], [[C/Csallóköz\|Csallóköz]] és [[N/Navel\|navel]] címnél).  
 Itt egy fontos ponthoz érkeztünk, hisz annak a bizonyítása következhetne, hogy [[I/Íz\|Íz]] = Tűzből V előtéttel lett víz, onnan pedig [[F/Föld\|Föld]]i anyag, illetve [[I/ID\|ID]] = Isten, isteni fény V-előhangosan lesz [[V/VID\|VID]], földi megnyilvánulásaként.  
 A víz legfontosabb funkciója a megtisztítás, viszont a tisztaság a fehérséggel, fénnyel is összefügg, így ha fényminőséget kell keresni, [[V/VID\|VID]] illetve [[V/VASZ\|VASZ]] adja meg víz párját.  
