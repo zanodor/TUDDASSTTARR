@@ -17,6 +17,7 @@
 
 flowchart LR
 head["<b>M-Z/V-Z</b>"]
+lvl2_0["<b>MISZ</b> etimon"]
 lvl2_a("víz")
 lvl2_b("méz")
 lvl3_a("vedel")
@@ -24,9 +25,19 @@ lvl3_b("vidék")
 lvl3_c("hun-szláv <code>med</code> = méz")
 lvl3_d("<code>medos</code> = mézsör")
 
+head ----> lvl2_0
 head --> lvl2_a & lvl2_b
 lvl2_a -- "Z←→D" -->  lvl3_a & lvl3_b
+lvl2_a -- "V→F, V→P, V→W stb." -->  lvl3_x("lásd helyükön")
 lvl2_b -- "Z←→D" -->  lvl3_c & lvl3_d
+lvl2_a -- "V→M" ---> lvl3_e("japán <code>mizu</code>")
+lvl2_a -- "V→M" ---> lvl3_f("mix")
+lvl2_a -- "D=GY" ---> lvl3_g("vegyít")
+lvl3_g --> lvl3_f
+
+classDef fillStyle fill:#1f1f1f,stroke:#000000,stroke-width:1px,stroke-dasharray: 0;
+class head,lvl2_0,lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_c,lvl3_d,lvl3_e,lvl3_f,lvl3_g,lvl3_x fillStyle;
+class lvl2_a,lvl2_b,lvl3_a,lvl3_b,lvl3_f internal-link;
 ```
 
 A médek nevét is ilyen Mé-D formában elemzi Péterfai János. A [[M/Méd\|méd]] címnél előjövő **Medea** pelaszg istennő neve nyilván nem a magyar névből indul ki, hanem a méz méd nevéből. A mézfolyam a Tejút.  
