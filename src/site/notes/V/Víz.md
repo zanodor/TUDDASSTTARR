@@ -13,7 +13,7 @@
 - [[V/Vidék\|Vidék]] gyöke is ugyanilyen elven lehet víz.  
 [[V/Vicinity\|Vicinity]] címnél is szóltunk (a viskó ellen) a víz szóból való levezethetőségről.
 
-```plantuml-svg
+```plantuml
 @startuml
 left to right direction
 'scale 6/7
