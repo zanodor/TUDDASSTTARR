@@ -16,9 +16,6 @@
 ```plantuml
 @startuml
 left to right direction
-'scale 6/7
-'skinparam nodesep 85
-'skinparam ranksep 85
 skinparam BackGroundColor transparent
 skinparam rectangle {
 	BackgroundColor #ccbe78
