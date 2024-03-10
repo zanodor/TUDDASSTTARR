@@ -26,36 +26,3 @@ Nos, valójában a [[B/Balog\|Balog]] címnél taglalt *balog*fa is megfelelne. 
 Götz László Keleten kél a Nap című könyvének 191. oldalán előjön a német `balken` = gerenda, melyet szó szerint "hasított"-nak értelmez Götz, miután a [[B/Balog\|Balog]] és [[P/Plow\|plow]] címnél taglalt szavakkal veti őket össze.  
 Viszont itt sem utólagosan készült igékből kell kiindulni.  
 A kiindulópont [[B/Bál\|Bál]] és a tiszteletére emelt kőoszlop fogalma mely [[P/Pole#Pole 2)\|pole]] = tengely is lehet.  
-
-
-```mermaid
-%%{ init: { 'theme': 'base', 'themeVariables': { 'primaryColor': '#1f1f1f', 'primaryTextColor': '#aba89a', 'primaryBorderColor': '#000000', 'lineColor': '#aba89a', 'secondaryColor': '#1f1f1f', 'tertiaryColor': '#fff' } } }%%
-
-flowchart LR
-head[<b>M-Z/V-Z</b>]
-lvl2_a("víz")
-lvl2_b("méz")
-lvl3_a("vedel")
-lvl3_b("vidék")
-lvl3_c("hun-szláv <code>med</code> = méz")
-lvl3_d("<code>medos</code> = mézsör")
-
-head --> lvl2_a & lvl2_b
-lvl2_a -- "Z←→D" -->  lvl3_a & lvl3_b
-lvl2_b -- "Z←→D" -->  lvl3_c & lvl3_d
-```
-
-```mermaid
-%%{ init: { 'theme': 'base', 'themeVariables': { 'primaryColor': '#1f1f1f', 'primaryTextColor': '#aba89a', 'primaryBorderColor': '#000000', 'lineColor': '#aba89a', 'secondaryColor': '#1f1f1f', 'tertiaryColor': '#fff' } } }%%
-
-flowchart TD
-head["<b>K-T (H-T)</b>"]
-lvl2_a("kutya")
-lvl2_b("Word3")
-lvl2_c("hattyú")
-lvl3_a("Word1")
-
-head --> lvl2_a & lvl2_b
-head -- "Lásd" --> lvl2_c
-lvl2_a --> lvl3_a & lvl2_b
-```
