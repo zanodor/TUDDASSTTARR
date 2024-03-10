@@ -18,14 +18,15 @@
   /* mix-blend-mode: screen; */
 /* } */
 
-/* PlantUML rendered png images for dark mode -- mert ugye a hátteren kívül vannak más színek is, ami miatt mégis kell valami konverzió és ahogy kiderül a `filter: invert(92.66%) sepia(73.54%)` jobb mint a sima `filter: invert(87.5%);`, de a sima képekre ezen utóbbit kell használni a fehér hátterű szövegek szép beolvasztására */
-.theme-dark img[src^="https://www.plantuml.com/plantuml/png"] {
+/* PlantUML rendered images for dark mode -- mert ugye a hátteren kívül vannak más színek is, ami miatt mégis kell valami konverzió és ahogy kiderül a `filter: invert(92.66%) sepia(73.54%)` jobb mint a sima `filter: invert(87.5%);`, de a sima képekre ezen utóbbit kell használni a fehér hátterű szövegek szép beolvasztására */
+.theme-dark img[src^="https://www.plantuml.com/plantuml/png"], 
+.theme-dark img[src^="https://www.plantuml.com/plantuml/svg"] {
   filter: invert(92.66%) sepia(73.54%);
-  mix-blend-mode: screen;
+  /* mix-blend-mode: screen; */
 }
 
 /* PlantUML rendered svg images for dark mode */
-.theme-dark .block-language-plantuml-svg svg {
-  filter: invert(92.66%) sepia(73.54%);
+/* .theme-dark .block-language-plantuml-svg svg { */
+  /* filter: invert(92.66%) sepia(73.54%); */
   /* mix-blend-mode: screen; */
 }
