@@ -13,7 +13,7 @@
 - [[V/Vidék\|Vidék]] gyöke is ugyanilyen elven lehet víz.  
 [[V/Vicinity\|Vicinity]] címnél is szóltunk (a viskó ellen) a víz szóból való levezethetőségről.
 
-```plantuml
+```plantuml-svg
 @startuml
 left to right direction
 skinparam BackGroundColor transparent
@@ -74,6 +74,67 @@ w2 --> w12 : [Z←→D]
 @enduml
 ```
 { #zwstf}
+
+```plantuml
+@startuml
+left to right direction
+scale 6/7
+skinparam nodesep 85
+skinparam ranksep 85
+skinparam BackGroundColor transparent
+skinparam rectangle {
+    BackgroundColor #ccbe78
+}
+skinparam card {
+    roundCorner 15
+    BackgroundColor #f9f5d7
+}
+
+rectangle **M-Z/V-Z** as head {
+}
+card **víz** as w1 {
+}
+card **méz** as w2 {
+}
+card vidra as w3 {
+}
+card vedel as w4 {
+}
+card vidék as w5 {
+}
+card vödör as w6 {
+}
+card vodka as w7 {
+}
+card "<color:#e7545c>fish</color>, <color:#e7545c>bath</color>, <color:#e7545c>piss</color>, stb" as w8 {
+}
+card "japán <color:#e7545c>mizu</color>" as w9 {
+}
+card vegyít as w10 {
+}
+card "<color:#e7545c>med</color> = méz" as w11 {
+}
+card "<color:#e7545c>medos</color> = mézsör" as w12 {
+}
+card "<color:#e7545c>mix</color>" as w13 {
+}
+
+head --> w1
+head --> w2
+w1 --> w3 : [Z←→D]
+w1 --> w4 : [Z←→D]
+w1 --> w5 : [Z←→D]
+w1 --> w6 : [Z←→D]
+w1 --> w7 : [Z←→D]
+w1 --> w8 : [V→F, V→B, V→P]
+w1 --> w9 : [V→M]
+w1 --> w10 : [Z←→D=GY]
+w1 --> w13 : [V→M]
+w10 --> w13
+w2 --> w11 : [Z←→D]
+w2 --> w12 : [Z←→D]
+@enduml
+```
 
 Víz nélkül nincs élet, ahogy anya nélkül sincs (erről szóltunk számtalan helyen, mint például [[M/Mocsár-mitológia\|mocsár-mitológia]], [[C/Csallóköz\|Csallóköz]] és [[N/Navel\|navel]] címnél).  
 Itt egy fontos ponthoz érkeztünk, hisz annak a bizonyítása következhetne, hogy [[I/Íz\|Íz]] = Tűzből V előtéttel lett víz, onnan pedig [[F/Föld\|Föld]]i anyag, illetve [[I/ID\|ID]] = Isten, isteni fény V-előhangosan lesz [[V/VID\|VID]], földi megnyilvánulásaként.  
